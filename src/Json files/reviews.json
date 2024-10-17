@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Steve Smith",
+        "image": "https://img.freepik.com/free-photo/portrait-man-laughing_23-2148859448.jpg?size=338&ext=jpg&ga=GA1.1.1819120589.1726185600&semt=ais_hybrid",
+        "description": "Loved the design and attention to detail. The team truly understood my vision and brought it to life!",
+        "rating": "<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i>"
+    },
+    {
+        "id": "2",
+        "name": "Michael Smith",
+        "image": "https://img.freepik.com/photos-gratuite/heureux-homme-souriant-barbe-camera_176420-18040.jpg",
+        "description": "Great experience overall. The designers were professional, but I expected faster delivery.",
+        "rating": "<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='far fa-star'></i>"
+    },
+    {
+        "id": "3",
+        "name": "M. Usman",
+        "image": "https://media.istockphoto.com/id/1090878494/photo/close-up-portrait-of-young-smiling-handsome-man-in-blue-polo-shirt-isolated-on-gray-background.jpg?s=612x612&w=0&k=20&c=AycQ2obu8sgJxWAJgYBbYR6jeRB9Bhs1JZBXzSgL6LE=",
+        "description": "The design was good, but the communication could have been better. Still happy with the final result.",
+        "rating": "<i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='fas fa-star'></i> <i class='far fa-star'></i> <i class='far fa-star'></i>"
+    }
+]

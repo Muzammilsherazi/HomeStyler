@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "name": "Modern",
+      "description": "Sleek and functional design with clean lines, high-gloss finishes, and built-in appliances.",
+      "image": "path/to/modern-kitchen-image.jpg",
+      "costEstimate": "$15000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "2",
+      "name": "Traditional",
+      "description": "Classic design with ornate cabinets, rich colors, and a focus on comfort and warmth.",
+      "image": "path/to/traditional-kitchen-image.jpg",
+      "costEstimate": "$20000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "3",
+      "name": "Rustic",
+      "description": "Earthy tones, wooden accents, and vintage appliances create a warm, cozy feel.",
+      "image": "path/to/rustic-kitchen-image.jpg",
+      "costEstimate": "$18000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "4",
+      "name": "Industrial",
+      "description": "Exposed brick, metal accents, and stainless steel appliances give it an edgy, urban look.",
+      "image": "path/to/industrial-kitchen-image.jpg",
+      "costEstimate": "$17000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "5",
+      "name": "Minimalist",
+      "description": "Simple, clutter-free space with neutral colors, flat-front cabinets, and hidden appliances.",
+      "image": "path/to/minimalist-kitchen-image.jpg",
+      "costEstimate": "$14000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "6",
+      "name": "Scandinavian",
+      "description": "Bright and airy design with natural wood, white surfaces, and a focus on functionality.",
+      "image": "path/to/scandinavian-kitchen-image.jpg",
+      "costEstimate": "$16000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "7",
+      "name": "Farmhouse",
+      "description": "A cozy, traditional kitchen with wooden cabinetry, a farmhouse sink, and rustic decor.",
+      "image": "path/to/farmhouse-kitchen-image.jpg",
+      "costEstimate": "$19000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "8",
+      "name": "Bohemian",
+      "description": "Eclectic and colorful design with open shelving, artistic tiles, and unique decor.",
+      "image": "path/to/bohemian-kitchen-image.jpg",
+      "costEstimate": "$13000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "9",
+      "name": "Mid-Century Modern",
+      "description": "Retro-inspired with wood cabinetry, bright colors, and sleek, minimal appliances.",
+      "image": "path/to/midcentury-kitchen-image.jpg",
+      "costEstimate": "$17000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "10",
+      "name": "Luxury",
+      "description": "High-end materials, marble countertops, and top-of-the-line appliances create a premium kitchen.",
+      "image": "path/to/luxury-kitchen-image.jpg",
+      "costEstimate": "$30000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "11",
+      "name": "Eclectic",
+      "description": "A mix of styles with vibrant colors, bold patterns, and unique, personalized details.",
+      "image": "path/to/eclectic-kitchen-image.jpg",
+      "costEstimate": "$15000",
+      "category": "kitchenDesign"
+    },
+    {
+      "id": "12",
+      "name": "Transitional",
+      "description": "A blend of traditional and contemporary elements for a balanced, timeless design.",
+      "image": "path/to/transitional-kitchen-image.jpg",
+      "costEstimate": "$18000",
+      "category": "kitchenDesign"
+    }
+  ]
+  

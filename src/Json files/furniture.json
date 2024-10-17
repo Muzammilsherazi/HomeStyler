@@ -1,0 +1,933 @@
+[
+  {
+    "id": 1,
+    "category": "Sofas & Couches",
+    "products": [
+      {
+        "id": "sofa001",
+        "name": "Luxury Leather Sofa",
+        "description": "A premium leather sofa with modern design.",
+        "longDescription": "This luxury leather sofa is designed to provide the ultimate comfort and style for your living room. Its sleek and modern design makes it a perfect addition to any home decor. The sofa is made of high-quality leather that is soft to the touch and durable enough to withstand the wear and tear of daily use.",
+        "image": "../../public/furniture/AccentChair.jpg",
+        "category": "Sofas & Couches",
+        "reviews": [
+          {
+            "user": "John",
+            "rating": 5,
+            "comment": "Super comfortable!"
+          }
+        ],
+        "ratings": 4.5,
+        "price": 1200.00
+      },
+      {
+        "id": "sofa002",
+        "name": "Classic Fabric Couch",
+        "description": "A cozy fabric couch perfect for any living room.",
+        "longDescription": "This classic fabric couch is a timeless piece of furniture that will complement any home decor. Its soft and cozy fabric makes it a perfect spot to relax and unwind after a long day. The couch is designed with comfort and style in mind, making it a great addition to any living room.",
+        "image": "../../public/furniture/AdjustableLaptopTable.jpg",
+        "category": "Sofas & Couches",
+        "reviews": [
+          {
+            "user": "James",
+            "rating": 4,
+            "comment": "Looks amazing in my home."
+          }
+        ],
+        "ratings": 4,
+        "price": 800.00
+      },
+      {
+        "id": "sofa003",
+        "name": "Contemporary Sectional Sofa",
+        "description": "A large sectional sofa with modern styling.",
+        "longDescription": "This contemporary sectional sofa is designed to provide ample seating and comfort for your living room. Its modern styling makes it a perfect addition to any home decor. The sofa is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/bedframe.png",
+        "category": "Sofas & Couches",
+        "reviews": [
+          {
+            "user": "Alice",
+            "rating": 5,
+            "comment": "Perfect for family gatherings!"
+          }
+        ],
+        "ratings": 4.7,
+        "price": 1500.00
+      },
+      {
+        "id": "sofa004",
+        "name": "Velvet Sofa",
+        "description": "A soft velvet sofa in a variety of colors.",
+        "longDescription": "This velvet sofa is a luxurious piece of furniture that will add a touch of elegance to any living room. Its soft and plush velvet fabric makes it a perfect spot to relax and unwind. The sofa is designed with comfort and style in mind, making it a great addition to any home decor.",
+        "image": "../../public/furniture/bookshelf.jpg",
+        "category": "Sofas & Couches",
+        "reviews": [
+          {
+            "user": "Tom",
+            "rating": 3,
+            "comment": "Nice texture, but could be softer."
+          }
+        ],
+        "ratings": 3.8,
+        "price": 900.00
+      },
+      {
+        "id": "sofa005",
+        "name": "Mid-Century Modern Sofa",
+        "description": "A stylish sofa inspired by mid-century design.",
+        "longDescription": "This mid-century modern sofa is a stylish and comfortable piece of furniture that will add a touch of sophistication to any living room. Its sleek and modern design makes it a perfect addition to any home decor. The sofa is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/BunkBed.jpg",
+        "category": "Sofas & Couches",
+        "reviews": [
+          {
+            "user": "Emily",
+            "rating": 4,
+            "comment": "Adds character to my living room."
+          }
+        ],
+        "ratings": 4.2,
+        "price": 1100.00
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Chairs & Recliners",
+    "products": [
+      {
+        "id": "chair001",
+        "name": "Modern Recliner",
+        "description": "A sleek and modern recliner with adjustable settings.",
+        "longDescription": "This modern recliner is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its adjustable settings make it a great addition to any home decor. The recliner is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/ErgonomicOfficeChair.jpeg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Sophia",
+            "rating": 5,
+            "comment": "So relaxing!"
+          }
+        ],
+        "ratings": 5,
+        "price": 600.00
+      },
+      {
+        "id": "chair002",
+        "name": "Accent Chair",
+        "description": "A stylish accent chair for any room.",
+        "longDescription": "This accent chair is a stylish and comfortable piece of furniture that will add a touch of elegance to any room. Its modern design makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/GlassDiningTable.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Lily",
+            "rating": 4,
+            "comment": "Comfortable and chic."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 350.00
+      },
+      {
+        "id": "chair003",
+        "name": "Classic Rocking Chair",
+        "description": "A traditional wooden rocking chair.",
+        "longDescription": "This classic rocking chair is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its traditional design makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/KingSizeBed.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Mark",
+            "rating": 5,
+            "comment": "Perfect for my porch!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 400.00
+      },
+      {
+        "id": "chair004",
+        "name": "Ergonomic Office Chair",
+        "description": "An ergonomic office chair with lumbar support.",
+        "longDescription": "This ergonomic office chair is a comfortable and stylish piece of furniture that will provide a perfect spot to work and relax. Its lumbar support makes it a great addition to any home office. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/LuxuryLeatherSofa.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Sara",
+            "rating": 4,
+            "comment": "Great for long hours of work."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 450.00
+      },
+      {
+        "id": "chair005",
+        "name": "Swivel Recliner Chair",
+        "description": "A recliner chair with a swivel base.",
+        "longDescription": "This swivel recliner chair is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its swivel base makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/MarbleConsoleTable.JPG",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Kevin",
+            "rating": 5,
+            "comment": "Super comfortable and functional."
+          }
+        ],
+        "ratings": 4.7,
+        "price": 700.00
+      },
+      {
+        "id": "chair006",
+        "name": "Wicker Chair",
+        "description": "A stylish wicker chair for indoor or outdoor use.",
+        "longDescription": "This wicker chair is a comfortable and stylish piece of furniture that will add a touch of elegance to any room. Its wicker design makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/MemoryFoamMattress.JPG",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Hannah",
+            "rating": 4,
+            "comment": "Love the wicker design!"
+          }
+        ],
+        "ratings": 4.4,
+        "price": 300.00
+      },
+      {
+        "id": "chair007",
+        "name": "Massage Recliner",
+        "description": "A comfortable massage recliner with adjustable settings.",
+        "longDescription": "This massage recliner is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its adjustable settings make it a great addition to any home decor. The recliner is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/MidCenturSofa.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Daniel",
+            "rating": 5,
+            "comment": "Love the massage feature!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 800.00
+      },
+      {
+        "id": "chair008",
+        "name": "Tufted Accent Chair",
+        "description": "A stylish tufted accent chair for any room.",
+        "longDescription": "This tufted accent chair is a comfortable and stylish piece of furniture that will add a touch of elegance to any room. Its tufted design makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/ModernRecliner.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Olivia",
+            "rating": 5,
+            "comment": "Love the tufted design!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 500.00
+      },
+      {
+        "id": "chair009",
+        "name": "Reclining Loveseat",
+        "description": "A comfortable reclining loveseat with adjustable settings.",
+        "longDescription": "This reclining loveseat is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its adjustable settings make it a great addition to any home decor. The loveseat is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/pexelsphoto1125130.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Alexander",
+            "rating": 5,
+            "comment": "Love the reclining feature!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 900.00
+      },
+      {
+        "id": "chair010",
+        "name": "Ergonomic Chair",
+        "description": "An ergonomic chair with lumbar support and adjustable settings.",
+        "longDescription": "This ergonomic chair is a comfortable and stylish piece of furniture that will provide a perfect spot to work and relax. Its lumbar support and adjustable settings make it a great addition to any home office. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/PlatformBed.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Gabriel",
+            "rating": 4,
+            "comment": "Great for long hours of work."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 450.00
+      },
+      {
+        "id": "chair011",
+        "name": "Swivel Chair",
+        "description": "A stylish swivel chair for any room.",
+        "longDescription": "This swivel chair is a comfortable and stylish piece of furniture that will add a touch of elegance to any room. Its swivel base makes it a great addition to any home decor. The chair is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/QueenSizeBed.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Julia",
+            "rating": 4,
+            "comment": "Love the swivel feature!"
+          }
+        ],
+        "ratings": 4.4,
+        "price": 350.00
+      },
+      {
+        "id": "chair012",
+        "name": "Leather Recliner",
+        "description": "A comfortable leather recliner with adjustable settings.",
+        "longDescription": "This leather recliner is a comfortable and stylish piece of furniture that will provide a perfect spot to relax and unwind. Its adjustable settings make it a great addition to any home decor. The recliner is made of high-quality leather that is durable and easy to maintain.",
+        "image": "../../public/furniture/reclinerchair.jpg",
+        "category": "Chairs & Recliners",
+        "reviews": [
+          {
+            "user": "Benjamin",
+            "rating": 5,
+            "comment": "Love the leather material!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 850.00
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Tables",
+    "products": [
+      {
+        "id": "table001",
+        "name": "Wooden Coffee Table",
+        "description": "A handcrafted wooden coffee table with storage.",
+        "longDescription": "This wooden coffee table is a stylish and functional piece of furniture that will add a touch of elegance to any living room. Its handcrafted design makes it a great addition to any home decor. The table is made of high-quality wood that is durable and easy to maintain.",
+        "image": "../../public/furniture/RoundEndTable.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Oliver",
+            "rating": 5,
+            "comment": "Beautiful craftsmanship."
+          }
+        ],
+        "ratings": 4.8,
+        "price": 250.00
+      },
+      {
+        "id": "table002",
+        "name": "Glass Dining Table",
+        "description": "A modern dining table with a glass top.",
+        "longDescription": "This glass dining table is a stylish and modern piece of furniture that will add a touch of sophistication to any dining room. Its glass top makes it a great addition to any home decor. The table is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/sidetable.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Sophie",
+            "rating": 4,
+            "comment": "Elegant and modern."
+          }
+        ],
+        "ratings": 4.4,
+        "price": 400.00
+      },
+      {
+        "id": "table003",
+        "name": "Round End Table",
+        "description": "A small round table perfect for corners.",
+        "longDescription": "This round end table is a stylish and functional piece of furniture that will add a touch of elegance to any room. Its small size makes it a great addition to any home decor. The table is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/SlidingDoorWardrobe.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Henry",
+            "rating": 4,
+            "comment": "Nice for small spaces."
+          }
+        ],
+        "ratings": 4.1,
+        "price": 150.00
+      },
+      {
+        "id": "table004",
+        "name": "Adjustable Laptop Table",
+        "description": "A height-adjustable laptop table with wheels.",
+        "longDescription": "This adjustable laptop table is a comfortable and stylish piece of furniture that will provide a perfect spot to work and relax. Its height-adjustable settings make it a great addition to any home office. The table is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/sofa.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Jacob",
+            "rating": 5,
+            "comment": "Very convenient and portable."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 180.00
+      },
+      {
+        "id": "table005",
+        "name": "Marble Console Table",
+        "description": "A luxurious console table with a marble top.",
+        "longDescription": "This marble console table is a stylish and elegant piece of furniture that will add a touch of sophistication to any entryway. Its marble top makes it a great addition to any home decor. The table is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/storagecabinet.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Eva",
+            "rating": 4,
+            "comment": "Adds a touch of luxury."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 600.00
+      },
+      {
+        "id": "table006",
+        "name": "Wooden Dining Table",
+        "description": "A sturdy wooden dining table with a classic design.",
+        "longDescription": "This wooden dining table is a stylish and functional piece of furniture that will add a touch of elegance to any dining room. Its classic design makes it a great addition to any home decor. The table is made of high-quality wood that is durable and easy to maintain.",
+        "image": "../../public/furniture/StorageOttoman.jpeg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Liam",
+            "rating": 4,
+            "comment": "Great for family gatherings."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 500.00
+      },
+      {
+        "id": "table007",
+        "name": "Glass Coffee Table",
+        "description": "A modern glass coffee table with a sleek design.",
+        "longDescription": "This glass coffee table is a stylish and modern piece of furniture that will add a touch of sophistication to any living room. Its sleek design makes it a great addition to any home decor. The table is made of high-quality glass that is durable and easy to maintain.",
+        "image": "../../public/furniture/SwivelReclinerChair.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Ava",
+            "rating": 5,
+            "comment": "Love the modern design!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 350.00
+      },
+      {
+        "id": "table008",
+        "name": "Metal End Table",
+        "description": "A sturdy metal end table with an industrial design.",
+        "longDescription": "This metal end table is a stylish and functional piece of furniture that will add a touch of industrial chic to any room. Its sturdy design makes it a great addition to any home decor. The table is made of high-quality metal that is durable and easy to maintain.",
+        "image": "../../public/furniture/V.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Harper",
+            "rating": 4,
+            "comment": "Great for industrial decor."
+          }
+        ],
+        "ratings": 4.4,
+        "price": 200.00
+      },
+      {
+        "id": "table009",
+        "name": "Wooden Console Table",
+        "description": "A stylish wooden console table with a classic design.",
+        "longDescription": "This wooden console table is a stylish and functional piece of furniture that will add a touch of elegance to any entryway. Its classic design makes it a great addition to any home decor. The table is made of high-quality wood that is durable and easy to maintain.",
+        "image": "../../public/furniture/coffeetable.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Mason",
+            "rating": 4,
+            "comment": "Great for entryways."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 250.00
+      },
+      {
+        "id": "table010",
+        "name": "Glass Side Table",
+        "description": "A modern glass side table with a sleek design.",
+        "longDescription": "This glass side table is a stylish and modern piece of furniture that will add a touch of sophistication to any room. Its sleek design makes it a great addition to any home decor. The table is made of high-quality glass that is durable and easy to maintain.",
+        "image": "../../public/furniture/WoodenCoffeeTable.jpg",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Logan",
+            "rating": 5,
+            "comment": "Love the modern design!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 300.00
+      },
+      {
+        "id": "table011",
+        "name": "Wooden Desk",
+        "description": "A sturdy wooden desk with a classic design.",
+        "longDescription": "This wooden desk is a stylish and functional piece of furniture that will add a touch of elegance to any home office. Its classic design makes it a great addition to any home decor. The desk is made of high-quality wood that is durable and easy to maintain.",
+        "image": "https://images.pexels.com/photos/5673496/pexels-photo-5673496.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Gabriella",
+            "rating": 4,
+            "comment": "Great for home office."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 450.00
+      },
+      {
+        "id": "table012",
+        "name": "Metal Coffee Table",
+        "description": "A modern metal coffee table with an industrial design.",
+        "longDescription": "This metal coffee table is a stylish and functional piece of furniture that will add a touch of industrial chic to any living room. Its modern design makes it a great addition to any home decor. The table is made of high-quality metal that is durable and easy to maintain.",
+        "image": "../../public/furniture/MarbleConsoleTable.JPG",
+        "category": "Tables",
+        "reviews": [
+          {
+            "user": "Julian",
+            "rating": 5,
+            "comment": "Love the industrial design!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 350.00
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Beds & Mattresses",
+    "products": [
+      {
+        "id": "bed001",
+        "name": "King Size Bed",
+        "description": "Spacious and comfortable king-size bed.",
+        "longDescription": "This king-size bed is a comfortable and stylish piece of furniture that will provide a perfect spot to sleep and relax. Its spacious design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/77932153/photo/modern-double-bed-with-bedside-tables.jpg?b=1&s=612x612&w=0&k=20&c=ux4S9fi3u3zOIgWA-R3LstIQfC79TtjWGrtnCXFYcPE=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Mia",
+            "rating": 4,
+            "comment": "Very comfortable."
+          }
+        ],
+        "ratings": 4.2,
+        "price": 560
+      },
+      {
+        "id": "bed002",
+        "name": "Queen Size Bed",
+        "description": "A stylish and durable queen size bed.",
+        "longDescription": "This queen size bed is a comfortable and stylish piece of furniture that will provide a perfect spot to sleep and relax. Its durable design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "../../public/furniture/QueenSizeBed.jpg",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Noah",
+            "rating": 4,
+            "comment": "Perfect size for my room."
+          }
+        ],
+        "ratings": 4.4,
+        "price": 560
+      },
+      {
+        "id": "bed003",
+        "name": "Memory Foam Mattress",
+        "description": "A high-quality memory foam mattress for better sleep.",
+        "longDescription": "This memory foam mattress is a comfortable and supportive piece of furniture that will provide a perfect spot to sleep and relax. Its high-quality memory foam makes it a great addition to any bedroom. The mattress is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/1074901656/photo/mattress-isolated-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=iYHrmIgttB9lQMq5YZ6LJsad5vfTtT-wFjB5-V-pBkY=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Lucas",
+            "rating": 5,
+            "comment": "Best sleep I've ever had."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 560
+      },
+      {
+        "id": "bed004",
+        "name": "Bunk Bed",
+        "description": "A space-saving bunk bed for kids' rooms.",
+        "longDescription": "This bunk bed is a practical and comfortable piece of furniture that will provide a perfect spot for kids to sleep and play. Its space-saving design makes it a great addition to any kids' room. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://images.pexels.com/photos/5693040/pexels-photo-5693040.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Ella",
+            "rating": 5,
+            "comment": "My kids love it!"
+          }
+        ],
+        "ratings": 4.7,
+        "price": 560
+      },
+      {
+        "id": "bed005",
+        "name": "Platform Bed",
+        "description": "A modern platform bed with a low-profile design.",
+        "longDescription": "This platform bed is a stylish and comfortable piece of furniture that will provide a perfect spot to sleep and relax. Its modern design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/1095647358/photo/top-view-of-gray-bedroom.jpg?b=1&s=612x612&w=0&k=20&c=jw_zUnKfRNwrq8KPhMoKT1Dg8YtKW5oxccRUFLYx2jU=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Grace",
+            "rating": 4,
+            "comment": "Simple and elegant."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 560
+      },
+      {
+        "id": "bed006",
+        "name": "Adjustable Bed",
+        "description": "An adjustable bed with a comfortable and supportive design.",
+        "longDescription": "This adjustable bed is a comfortable and supportive piece of furniture that will provide a perfect spot to sleep and relax. Its adjustable design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/905899208/photo/bed-isolated-on-white-background.jpg?b=1&s=612x612&w=0&k=20&c=xC3aUZw7whRPFN61LmaDbV9Qyegnl5tqGEVhrStY5XQ=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Aiden",
+            "rating": 5,
+            "comment": "Love the adjustable feature!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 560
+      },
+      {
+        "id": "bed007",
+        "name": "Sleigh Bed",
+        "description": "A stylish sleigh bed with a classic design.",
+        "longDescription": "This sleigh bed is a comfortable and stylish piece of furniture that will provide a perfect spot to sleep and relax. Its classic design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/1283219419/photo/christmas-eve-in-cosy-room-with-a-bed-grey-knit-blanket-and-different-cushions-on-it-and-big.jpg?b=1&s=612x612&w=0&k=20&c=FQ4wPv2fOWdRBH3WfA55sdptrh52NQMR_HrceTCbsng=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Landon",
+            "rating": 4,
+            "comment": "Great for traditional decor."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 560
+      },
+      {
+        "id": "bed008",
+        "name": "Futon Bed",
+        "description": "A practical futon bed with a comfortable and supportive design.",
+        "longDescription": "This futon bed is a practical and comfortable piece of furniture that will provide a perfect spot to sleep and relax. Its comfortable and supportive design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/694980228/photo/bedroom-interior-of-modern-home-in-morning.jpg?b=1&s=612x612&w=0&k=20&c=UcPW0rQFTJ-Hjr3JzcsqAddDKX5PAmzHYn4GH7qQwX0=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Parker",
+            "rating": 4,
+            "comment": "Great for small spaces."
+          }
+        ],
+        "ratings": 4.2,
+        "price": 560
+      },
+      {
+        "id": "bed009",
+        "name": "Trundle Bed",
+        "description": "A practical trundle bed with a comfortable and supportive design.",
+        "longDescription": "This trundle bed is a practical and comfortable piece of furniture that will provide a perfect spot to sleep and relax. Its comfortable and supportive design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAMAAzAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAQIDBAYABwj/xABGEAACAQMDAQQGBgYIBQUBAAABAgMABBEFEiExBhNBUSIyYXGBkRQjQqGxwQcVUmKS0RYkM3KCovDxRVOywuE0NURUYxf/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAhEQACAgMAAwEBAQEAAAAAAAAAAQIRAxIhBDFBUWEiE//aAAwDAQACEQMRAD8A3mKaRUpFNIrI0GU05qTFNNADcedJinUhoGNNdSmuoASkp1JQAldXV1IYldXV1AHUuaSupBQu9h0Y05ZmBGW48ajNI3Six0XlmiP209xNTrhuhFA3FcDjpx7qNw0NCoHgc1IorPrcyr0lce5qmXULhekmR+8AaP8Aog0Dwp1BF1eZfWSNvmKf+vkX14T8Gp7onVhkV1BjrgPMcPX9pqiOsXJPCxge1T/OjdBqywRTSKkIppFUIYRTaeRTaQDDSU40hoAaaSlrqBiUlOpKAEpKWkpAJXUtJQM6upa6kMaaQ0ppDSY0RtTKe1NNQWNpPGnGmNSAQmq07cVO3Sqk54pDJ4W9EVLnNVYT6NT5oA0RFNIqUiozXSc4w0w0ssiRrud1UeZOKqDUbNm2rcRk++k2kOmWDVa9uorK2lubh9sUSlnbaTgD3VY3BhkdKC9reOz2oe2BqaEVF7a6CWx9P2n9+Jx+VTJ2u0Bzj9b2QPk0oX8ayHZ7QLHU4LmW8g3MsgUEEjjaD+dEJOw2kOp+qmHulNVqTsauHWNOnGYb+1k/uTKfwNWEuIn9SRW9xrze67C6P3wQd+uTwS+fxqCT9HlqjZt7y4jPXgClqOz1ISKejA+4124edeUSdkNRtwTba5erjn+0Yfgar/q3tLbZ7rXrkj95mb8SaNQ2PYAQeBSjmvJ+zmrdoYO12n6bf6pJNDL6TphcFcN7M9RXqM06wIWkbAHU1LVFLvonNJVW1vornd3e7C+JFWqhST9FtNezjTW6U6kbofcaALcUamJSwHQdRSNbx/srRXQ0jclZFDDaMZFELi0twme5XqPH21ooqjNy6ZZrSPyH8VQtbpnHj761x02zccJ8jWZmAE7BRgK1KUKGpWCZvRcqPCqc/SrVwfrHPtqncHHFYs1Q+E4Wps1XjPoipQ1SM1hqKQhQWPQDNTGqt4hkt5UXqykCulmBjr+8lvrht7ER/ZUHpTI7dzH6nonxxVZVkViMgEHB6fyozBeKLXumxnzrzZyd9O6KSXCPS7p4JxAzEoeFz4Gpu1zk9nL8+cWPwqpEu+8iGPS3g591Tdqzjsze+1AP8wrs8eTa6cuVdK/YaANp94cZ/rOB/AtFr29traT6OXHfN6gx40L7GziDQrogje10wUf4FrNdobp21VtsgHdKp3+XjXSzBBi6lAvAr+KkD7v54o5pyd/Zg5BZThqw82qiW9EsYzIluN7DgZLePl/tWh7OagiTF9+I2PpDdnjpn50hhuSzB86rS6cDzjijcMsM5ITqPCpDCnlQDPLZLcRfpUsEHAS1B/662evBvoqEDKhxv91Zq/Uf/wBfhUfYsh+f863BCurhgCD4GoyK+FwddAFu0klm4tcAlxn3VoowQg3dcc1Bb2sEJJiUKW6gGrIrDFj1+ms57fDqa3qt7qdXN6re6tCQxpb7GHPhRHUZx9G2ocs3lQu3YonHNdK2913HAwePhWqfDB+y3plwYdyuSVNBJz9ZI/hu/OrkMhjU48uAaHz+o5zg5PNKXocQNPJh3IP2qGXVyBdRKD9WwZc+TDHH41BftqEbSNFIsoz6sgGePIis019MjzO8JjkhcSrG/jxtPv4xXO2a70bFbhA6xZ9Iru+FTB+PGsCt5NfakDLNJCgPLIuScDoB4+z3mtDDbSlM903PObi6fefgOB7hSGp2epGoW5pC3p4rmNdJnQB1XRjLK01ttUscsh6E0O/Vl7naYiPaSMVq2NRnGaylijJ2WsrQLsNOMClpW3ORjPlVLtphezd5j9lf+oUfJ4rO9t2A7N3mfJf+oVcIqPETKTfWC+y0Mlzo8io2P6y56Z+ytQtoNzd624cRjbCjF8cNywzjz4xihvZ3tLY6ZZSQXdwUfvmbAjY8YHkPZRGLtpo4vJJWvcBolQZifqCx8v3q1ZmgLqeiyrq0kCFu7lVHO0YyQzAfif4quvY32nxLHKfqiQWKKFPHu+FWJu1uivqMc4u49mwKSVYEYbd5VNd9sdAuV2vfxdMYOR+VKgL2h61scGY4ckrhhWqS+jdVZSOa86ftDoDSMxvbbrkYc/yqVe1mkLhU1GEY6enRQDWk779L7H9mxA+6tBrF5I06WsLbfR3uQPA8Afcax3Zu7i1L9JU11BIksZtSFdTwcKo/GtbqlvLHfpOq5WRAjY6Agkgn5n5VlmvV0a4a26S6afosLyuWGDxnxo5bTLPCsinhhmhcWk3NxYbmcAg8KDnk1oNP05ba2ji67BisMCl9Nsrj8IlRm6CpGt3EZJ8qIJEBwK64TED8YIFdFGFiRHYOaYzh25cLgHwqRIXlU7RnGPHFc1nIhyemMctVKkZv2VCPJgaz+s63DYQvvXLl8BSdufcTxmtCy7GIJHwrLdorK7vLWSNNPt5l7zcHe4Ksp8wNppZP4OJnv1rBLGZEncxtuzxgg+/wrPzPLcWwkaMyQ3AZ4N5G5COvPlUlxDeadHcbrTuRzldwKg+Y8uMjB4/Co48/R1MiSBGH1OI+g6AezzNc30dv6EtIcSB5Ykit8+vcOhdj54PAX3e6jNtLCY+LwS8+sWX8sVm1tdRuLSKFbe3WGIlE72T0XweuOnPPXNGLEXbRFTbadlG2nu5DjI/w0IuPD0Zm9Ie+ns1Urm5hh5eTp7aHS9o7RG24dseOK6RBpmphagp7QWzj6pJW9nFV5e0kUfrwTge1ePnTEHy1Vb61gvrdre6jWSJvWVuhoIe1MHhDL91MPaiLwgf5inqxWTN2T0RiS1jGc+yoz2P0E9dOh+RqJu1CZ4t2+LU09qE/+uf46OhwlPY3QD/w2H+GmnsToHX9Vw/Kov6UDwt/89N/pS3/ACF+dHQ4Tf0I7Pn/AIbD99cvYDs+x/8Abk9wNQDtXJn/ANPH/HTh2ylU8W0Of7xo6HA1oXY3SNIufpNja93NtK7txPB9laIW0TKFdQceGKxMfbaYevbwqvvNXbftdMULvDHgDPTpT1bCzXxRInCqFAqcAe/8KyKdqWa2W4lkhSI87mOBQy//AEiPFHtskSQlgN7LgYo1YrPRVBHXGPZTbkf1aTHlXlcXb7Uw28TRnPgUGBVr+n2ouCkggbjPC0nFjTPTbQ4LjyxU0wDpy2On415xa/pBmjz3ltEw8SCavxfpAhb+1s8e56nVks2DwQLncefPishba5p1+jxQ3GHWRl+tUpuIzkDPWrK9utPYYeF1z7jQK/1azns5IbcwFXOe7liJUmplsl6Gh1ykUjSJIFbvARtYesM0Fv5Y7bS1Me1Xg9BWwMjacflUdvZar36XCXUEltG3QM2SPLkcU3WdP+kvJBPujEUw3xnjOQvB8xyTWLi17RqnsgdJfwtpliWuV9C4LHB5C84/ED4GoUS6uFEkN4LaP7KGTYT47iPaSauXmhB7xLe0fajgMysw2pg88eeMfL20YsdIt4rZVWXvByQygYPzFJEVJs6K9lutOt552zJJGGPGOvjjw8KCyXAaQIfAmtBeW6Rcb12EDAXHArLakEeRtudyng+NaY8+ObpFzxyirZorJ07telXVIx6LY9xxWLgvLmHARsj20Rh1YlfrFKmupGQcmMO9FljjfccDcoNVZILJRl42Rem5M4FVY76GS7hLsAufHz8KuxyKgSJlIYDHHh4Z+NOhAm7sjbTbu8LxP6pFV5FWQgMxyKI6iAtlMmCFjkDJjwznI/GgiKyEArIfI7TSAt+gVKc/OuUIibahWB2cMsU5PkEPNPmtZ2x/Vp+fJTRYUNbuoyW86iZ4gd/lSy6dqDqCbGXYTg+ytif0f6fJpMlzFd3gZFyqYVsknHj76QUY+K9tNv1gBB4+NFbOXULyAw2djtRztLyIWI9w8KqdktAuZdRa4voVjtoSdjMc7znjr4eNb1byC3AAnCjqQDXPl8jV0jaGK1bM1b9j7qcDvhKxPTEYGPnTNQ7HGIoslzJARkgPFwR8K0Y7S2yyEJdM5B5VTk0P1vtV9MkjP0a4kSEbSxjJQeZ9/SohnlIuWFIyk/Zm/hjIt0S6VeQI8hh8DXW+havNIpXT3VjwR3ij860Nhr1ncNIJJCkbpsB5yP5VdsJre5vrdRcCTc2wbec+fGa3UmYuJkpuz+q20RWSwuFzyNpB/A1Rd3R1Ry8bKeVcYJr2y905WQ4l2BeFYP096/yrL6nHp07Paag8FwynYVmHCfHwq1ZNI89MrmZcP6G3p7alt5JHuGDcjPFWO0fZ6G0TvNCv1nAX0oXfJHsU+PTx++helzmSQBj6Sn0h41SdiPRIbW1XTJoZh6KwglwcYcjg+/woXdm6W1tY7olpvoqbieqgNwPgMdfOtIkavYXg2+gpj588AEVntUcvLuJyWBBPxBrLK/hpjX0B6jHfw6hM4tzLAswJfoGVgBg+fArTQTXcsKOsEG0jgCX/AMV1miOlyXyySzNkHyGFx9xqeAGKJY2cuV43HqR4Z+Fc2poo0zP32sQun9uM4Awc1mLi+Uyu4UsPPpRiW3Qx7GZz7cjNAbm1t2uZQFJjjABDMWyx5/DHzow+MscrHkybKhyXyTIxjPQ85ovZsskQyoPHjWbn2oMRqFHsGKKaRPmMA9cV2pnOwnJaRuOm0+yrenlxIFkfdswAT16VXV8iprQ/XN/eHj7KoQb0lkTUpu8XeNo4YZ8T4UZAtnYBQyjwBA5/lWWW7js7h5JMAOVTPQDJP3VrLSCbbmOMY+yS2PDOayndlxquj9uMOilVI6ryPj7aiuY8r3ZimdcggKoHxIJq4BL3gWUc4yN4GM89CPj91WbNFmk71shk6oeccZzU0x2jE6ibmW5KRabfyLjAZXKD7iKfDPq6RNAuk6h3WOQZfz3VrN7uFkLEEv6I6jHxx7KshYwACWJBwfTxk+6tFLVGTxqT9mS07S31K3ZpbW9sccKvebd+f5VVl7K3kRkuLaeOUcc3IDKPZW4kdQTgsu7jJ6qfn41YCwtad2eiyqCwXnw5x0/2rKWNN2axnqqMBYp3szWl5DFHc7cgoMBseRoxpF/LA72l05kTBaOU9cDqGPy5qLXFig1CO/QKBDKiP6WcZO3/ALvvqnIrtfoir9hxnPHT/auLLFwZ145KSHaxY2mvw75FazuISCLiA+lt8mHQiqVr2Q1aznSa0uIJoRkgzp6Tfw+NaOO1FnHEJVVu++rY56Ofyo3azGBIUlKgAncM4I8uMVt405SdfDPPGKQJsrLtNNbCK9k03DEeksL7gP4utV7rsTqV7Msr6pAskjEsotivwyS3Naz6cieizRkY9LDA7j5ilN2kcrSPIGHHHg/+uK7bbOTh5rq36P8AW498q37BI2GTEcce0dfKsnPpt1pOuC3u5FnygdZFGNw9vtFe8Ne9++0YMJY5OOo/1ivN+3WjXMjRapHPD3FqpV4wDuIJ45/Kn0DREkaVfOxCr9Vx71FYXWNas4mETTYdHGRg+NbS4khTQ7t7hsDZAfYPRWvHe0V5GdUuVU+h3gII6YwKicbkXGVRN9pGrWdzBHFDco0wXc6Z5z4/eav9+PA1g+x8qS6qzE+isL/ax1OfzNa87M8Fse8VlKJpFmMOv/WBZrbuwfHvVP3A0yVtst2p6tIrj3bQP+00GulgtQCGhfAI9CLrnzyatqZJLCC5CHailGOOCoOM/dWxkNnPWrWlvtcCqM58qmsGwwNMGaSJ+KsWbfXN/eH4UOhf0au2LfWMfaPwqiSLtKJZNLu0gWRpMptEYLN1PlXoMOu2v0SFpXJkZFJTptOOlYxj/WJfNdpHzNS5zz40ONhZq5tdtWG1e8JX0g2OAfLNdD2itYuWSY5TacAdc586yZbJ5yDSbsdOPhRqg2NKe0EQaNkhdu7XHJx4YpsnaASMhWDBUngtxWbLAdcfHimG+tIv7W5hjI/akAo1QrNRJrskoKiJQucgZJwanXWbl9wG1VdgTx48fyrFntBpMR9O/hOP2Tn8KbP2u09YysLSOTxlUNVwLL/aS9P0acPIXVCJGBPGVOR8sCtJNsme1nix3cqrgivLdX16O5sZoIbWcmRSoYjgVs+w+vQXvZ5beZh39rztJ8q4/LhaTR0ePLrTNVef1mZIs57t0J88025LteytI2ItxK8+B5FCtOvUN1G1zIqMxYuSeGz5fdVXXzf3b27WWpfRwBteNVViR4MCfZ+FYeJPWdM18mFx4aKNsAEc88eNXE2g7p2G4/Z3V54LKeU4uu0F2cdQJAh/y4rhp2mlwJ5jcY/58zvn5mvTtHB09AuNW0+2XN9qNpaoOgkmVcn4ms12q7WaJdaPcWNnqNvLJKAqpESxY58xxQqOz0CI5W1tk/uw5qG6suz80m9reIOOjLHtIx7qBm4tbI3uk3Fsmxt8cIy4yPVBoDe/o+kvDva2smYdCC4x91X9N7VWlundGOR0KqPRXPqjFHIu0OkSqGLPGfKRCD8q5ssZbWjoxNa0zLWfYW8tUKLaaZg//ptqx/Q6+HH0e1+Fy1aiPWtKbrc9PNDUw1rSR/8AP/zEVg7vpsq+Hza87yg7LdOvG1K6Ge5igMWzdFn1CvzxV+bUGKhTK5UdFJ4qlJdBuOa6dmc+qGJLviI8VOMHy8Kt2ZoSzkSuydavadOHIBOG8qpEs0MD+j8Kv2DfWsPatC4WO05q7avtdiOuR+FWiR2rX72MN1PEqsyhcA9OpoHDruq3PCPbp5YQ4+eaf2hvQ0FzFnl9v3E0N0ecIv407EFy2tTA5vmT91VFRNZX7/2l7cN7pCPwq/YzGZ0jiAYt0Xp8qLx2U5GPq1J8zmkBmBoisfri8h/eJNWI9GgTpCufdWlWxbxlHwGaetjH1Z3J9mBTAApYRKMbFp62iDwAo8LO3GMoT7SxqSOGBScRJx0O2kAAFvGeBj2iporQq4aOFw46EJj76PjAGFAA9grs0ON+xp16Bb2tzMuyWMsp8Hxinw2NzEAsTiIDwVqJZppPNTpH8HtL9KY0/wD5swJ91PWwiByzO3+LFWQaaaqibIxa24H9mD7yacscSD0Y0H+EU4mm59HNMBGY9M8U0Hmmlhnk0sQMkirGCxJ9VRkmlaQew92a0qDU0uGnLAowA2nHXNHP6K2Q6PJ/EP5VW7JWV3bQ3Pe2+xmZSokfaT16Ciz6gInKSKFYdQWziuTIv9WdWN/5Pnw6XOfWYCo20tl6vn25xWlMCfbf/XxqNoYz6q7vaTj8qrYNEZ39VNjcCCPE5qN7HZyGAI8QeRWkMXGAi49xNRNApPPHsCUbMWiBdndlD3U7AE9HxwaIPNs3kLjgY5qKewV0I2SHPmQBVCeC+jiKxHK+R5NaRmZygDL+VpXdiT1/OoYJHj5Q48x4VO2n3sjZMTE0jafdxjLQNjzq9kZ00GOy86yatD6OHAONvSt3k9fGvPOywZdbiVgQQDkYxXoAaqQEgOOlLUe7HOaa06DlpFA99MRMTSqaotqNsGC79xz9kE00amO+7uK2nck/sjFFgEwaTPNDnu7oS92sUSsfB2PHyFS29rqF4SVuYVVT6ZjYHHzFLZDpl3PuqKSWNT6Uig+IJFMTRHuZWZr2Zok9YggZ93NTyaHGZQY5DtxyskRfPxqXkQ9WV2voAdok3HyVcn7qhTUBNLsht5nP93Ao9ZaWLe1llIt3kTnhdoA9vSrNvbyQ2bSNGjTSNvUKcZ+PAqXk5Y9DL/SLl9wSOBSvrb5On4VY/V2oPbd41zFGh9UgDmjRS72LusdxY8osinH3Gr15EqWkQaJnJPGMej7OnjUqTbHqjNroUq22ZroySOfRJb0R8qtWOlmGeM/V4A9NlZ93w5xRq+jt/osSTx4iJGIyhJX5Gq9stobxO6bEngo3/wAsVLlaKSLkDSi9RWGUxwd3X20ly26Yk2azfvkrz91PmWP9YoO8IP2gCeD4eFRX1sZJyfpUkXGNqSqv40mCPOwjE8IPxqdQ23iLB86jM+fVYn3LSHe3UEjzNZm9khXxLoPhVd2O7Ab5VKpK/ZQ+8ZqVXk/YyPYMUCKirMc7Qx+FI0ErcHA95xVtgx5KgD2mmMyr0IPuNOwJdJuY7By11EJvAP12fzog2l2FwRNBPHcOw3ZWZeOfI9aEne6+jGce2mrFNCWeCREZuoPINUp0Q4WWI+zMyXxvIRL3uOBtBH3Vdk0nUwFUyEyv0AiYbR7eMD40T0a4sriBbPTVaO8PpT5X1R558j7KIwpFab9kytORgs4ZdvwxWm7oz1RnE0NkjkMl0JpiCADLtVT7f9qZDoU24D6PbyMftCRTj780aEN/lzHexTMc7QzgBfgRRCNZ4bJGkiEtwev1YxnzwBS2bDVAz9WiykWG2tGlkKgnAyM+ypblUsIY1EUjSty5UZ5PgTir8bvbxzTXKN3soyBGp3H34qk19MEG6K5Unom9h+IpN/LGkV4JIJZliKNvfJxsV8fGiM6W0FsbUBdzckKuAtWFk+jQxyztKQ3qoSDz78U6Fo51nvZQFZem5QQMfjQv0P4RzLaWkCIGQJIAWLEgsfvqjBZWbx9xBt6Z2xXK7j8+amkuLO6bvZnjY54LRuv3irWlwwK5uLQRkHlmDsR8yKkY67iKi2toi6noyh1yPaeafeQyrbdzEzh1z9Y0Zam2ttHLfzyb96r6S4fk/wDimX1o1zMswa4j2Z4Rcj7jVNfBL9IIYZRMm+eMqD6SlDk/dRG8d1uLeMd2EJGzLAEn7qr2EBhnMjXNy+fsup2j5VNK1w+ohFuVDj0gpbAA91EV0GLqj3UTqLeEyjOG2tjiq8L330pUe1YRt1kP2am1MyvMDaxwuCfSyyj5c023S7+kqDaKIx9sefwNTXAJ7qVIr+JmjJKKMtt9apLyKBpd0kauSM5ZATXX0zJdRxd2xWPBByfSqe4YCQ4PB59YU8nEEfZ//9k=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Cooper",
+            "rating": 5,
+            "comment": "Love the trundle feature!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 560
+      },
+      {
+        "id": "bed010",
+        "name": "Storage Bed",
+        "description": "A practical storage bed with a comfortable and supportive design.",
+        "longDescription": "This storage bed is a practical and comfortable piece of furniture that will provide a perfect spot to sleep and relax. Its comfortable and supportive design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/182055577/photo/bed-base.jpg?b=1&s=612x612&w=0&k=20&c=as2FXo0eEUAs09hg8qd7sone9C2jVg_qHL_qPEx9hLk=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Cameron",
+            "rating": 4,
+            "comment": "Great for storage."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 560
+      },
+      {
+        "id": "bed011",
+        "name": "Murphy Bed",
+        "description": "A practical murphy bed with a comfortable and supportive design.",
+        "longDescription": "This murphy bed is a practical and comfortable piece of furniture that will provide a perfect spot to sleep and relax. Its comfortable and supportive design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/640347962/photo/corner-convertible-sofa-bed-of-white-color-queen-size-on-white.jpg?b=1&s=612x612&w=0&k=20&c=5Vz1uhiajdjMz_KZH8h5Z9ERLcaoVaDn0xQq7rc2DGU=",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Brody",
+            "rating": 5,
+            "comment": "Love the murphy feature!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 560
+      },
+      {
+        "id": "bed012",
+        "name": "Canopy Bed",
+        "description": "A stylish canopy bed with a classic design.",
+        "longDescription": "This canopy bed is a comfortable and stylish piece of furniture that will provide a perfect spot to sleep and relax. Its classic design makes it a great addition to any bedroom. The bed is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://images.pexels.com/photos/4916513/pexels-photo-4916513.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Beds & Mattresses",
+        "reviews": [
+          {
+            "user": "Jaxon",
+            "rating": 4,
+            "comment": "Great for traditional decor."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 560
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Storage",
+    "products": [
+      {
+        "id": "storage001",
+        "name": "Sliding Door Wardrobe",
+        "description": "A modern wardrobe with sliding doors and ample storage.",
+        "longDescription": "This sliding door wardrobe is a practical and stylish piece of furniture that will provide a perfect spot to store your clothes and accessories. Its modern design makes it a great addition to any bedroom. The wardrobe is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Liam",
+            "rating": 4,
+            "comment": "Great design and space."
+          }
+        ],
+        "ratings": 4,
+        "price": 489
+      },
+      {
+        "id": "storage002",
+        "name": "Bookshelf",
+        "description": "A sturdy bookshelf with multiple shelves.",
+        "longDescription": "This bookshelf is a practical and stylish piece of furniture that will provide a perfect spot to store your books and decorative items. Its sturdy design makes it a great addition to any room. The bookshelf is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Sophia",
+            "rating": 5,
+            "comment": "Perfect for my book collection."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 470
+      },
+      {
+        "id": "storage003",
+        "name": "Storage Ottoman",
+        "description": "A multifunctional ottoman with hidden storage.",
+        "longDescription": "This storage ottoman is a practical and stylish piece of furniture that will provide a perfect spot to store your belongings and relax. Its multifunctional design makes it a great addition to any room. The ottoman is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Ava",
+            "rating": 5,
+            "comment": "Love the extra storage!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 890
+      },
+      {
+        "id": "storage004",
+        "name": "Closet Organizer",
+        "description": "A closet organizer with adjustable shelves.",
+        "longDescription": "This closet organizer is a practical and stylish piece of furniture that will provide a perfect spot to store your clothes and accessories. Its adjustable shelves make it a great addition to any closet. The organizer is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Harper",
+            "rating": 4,
+            "comment": "Helps keep everything neat."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 1200
+      },
+      {
+        "id": "storage005",
+        "name": "Chest of Drawers",
+        "description": "A classic wooden chest of drawers.",
+        "longDescription": "This chest of drawers is a practical and stylish piece of furniture that will provide a perfect spot to store your clothes and accessories. Its classic design makes it a great addition to any bedroom. The chest is made of high-quality wood that is durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Mason",
+            "rating": 4,
+            "comment": "Spacious and sturdy."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 670
+      },
+      {
+        "id": "storage006",
+        "name": "Shelving Unit",
+        "description": "A sturdy shelving unit with multiple shelves.",
+        "longDescription": "This shelving unit is a practical and stylish piece of furniture that will provide a perfect spot to store your books and decorative items. Its sturdy design makes it a great addition to any room. The shelving unit is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Logan",
+            "rating": 5,
+            "comment": "Love the extra storage!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 780
+      },
+      {
+        "id": "storage007",
+        "name": "Storage Bench",
+        "description": "A multifunctional storage bench with hidden storage.",
+        "longDescription": "This storage bench is a practical and stylish piece of furniture that will provide a perfect spot to store your belongings and relax. Its multifunctional design makes it a great addition to any room. The bench is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Gabriella",
+            "rating": 4,
+            "comment": "Great for entryways."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 560
+      },
+      {
+        "id": "storage008",
+        "name": "File Cabinet",
+        "description": "A sturdy file cabinet with multiple drawers.",
+        "longDescription": "This file cabinet is a practical and stylish piece of furniture that will provide a perfect spot to store your files and documents. Its sturdy design makes it a great addition to any home office. The file cabinet is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Julian",
+            "rating": 5,
+            "comment": "Love the extra storage!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 780
+      },
+      {
+        "id": "storage009",
+        "name": "Storage Cube",
+        "description": "A multifunctional storage cube with hidden storage.",
+        "longDescription": "This storage cube is a practical and stylish piece of furniture that will provide a perfect spot to store your belongings and relax. Its multifunctional design makes it a great addition to any room. The cube is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Cameron",
+            "rating": 4,
+            "comment": "Great for small spaces."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 1200
+      },
+      {
+        "id": "storage010",
+        "name": "Wardrobe Organizer",
+        "description": "A wardrobe organizer with adjustable shelves.",
+        "longDescription": "This wardrobe organizer is a practical and stylish piece of furniture that will provide a perfect spot to store your clothes and accessories. Its adjustable shelves make it a great addition to any closet. The organizer is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUSEhIVFRUXGBcXGBcYGBcXGBgYFxUXFxcVFxcYHSggGBolHRUVITEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGBAQGy0mICUtLS0tLS0tLystLS0tLS0tLS0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBAYBB//EAEUQAAECAwUEBwUECQQBBQAAAAEAAgMRIQQFEjFBUWFxgQYTIjKRofBSkrHB0TNCYuEHFBUjJFNygvFDorLSFjSTo7PT/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAEDAgQF/8QAKREAAgIBBAIBBAEFAAAAAAAAAAECEQMSITFBBFFxEyIyYaEUQrHh8P/aAAwDAQACEQMRAD8Ap2SHWTYkjsNddZVFJaIjDc+UnMDxuk6fLkpW9GIlsf18acBpAAp+9c0TlQ0ZnmQTpKSJQLhg2dhayJEkKjGWuA8GiixLPBbM0sbfACfYLO/QsP4aeRoq8a4Hf6cQO3Gh8U998xC5zG2Y2gtdIdWHPOETAcQGnDTSaLGytwh3bhT9oFumrX1BnLVNwhIanNFroJZXw+ubEbKsMjIz785Eclnr0Eo8UbIj/wDkVrujzSC+bgRJspc5/FZO/RK0Rf63HzmuPJFRk0jpxyclbKrVuOg0LDAiPP3ny5NaPmXLDNWluPpI2FCEF7SAJkObXvEmo4k1HgjE0pWx5U3HYPW2JqTL1nwWX6ZxP4ZoBBxxGjbkHOlP+1GW3lBid2I0z0JkSNQQ6VFmOl9qa8w4UORDZudLugmgE8iR2vFdmpHMosz9rspfCEswZ79chuQxsEj16mj8MUTurBzUfrpOirwtqwKxvr1puUzfXrTgr7rKDl64KvEs5Gnr1qqqcZcMw4tch/8AR9Zsduh7Gh7jt7hb5FwqvV7dMtdMYwXBoLe9LX5ryjoLfEOy2nrIsw0sLMUiS2ZaQSBUt7MqVXprLXDidW5rpCReXMIcyfEU1TMsqW6PV5bEHZbhlEGVOG8LA24gx3DGR2wCGtpKG0Bxy1cD4rcW2KOqL3GG8ElxJp2BUmfALBwbQJuc57payGETccThNZk6RqC3KtqtMokTty7MpETMx3gec8k+zRTihjG6jD3WIM50yScySfFTQ4zhkSPzUFl9l3jDllaT1c2uNHmb3SHguXiZw4dZ5aSGRo0bK5oZCtRbIyBkCBimZA80+JaHPliM5UHKizOaaHGNHWqeCq4KngqJokaVPDyVaGaKzBCAHNbVPLahOa1TGHlzSGiLCkpeqSQMOXtfbIQJcZbkMsl3RrX24xdBgZhuT3jd7Ld5rsGqs3RcTIZEa0OEWLmBmxh/CD3j+I8grd6302GCXHkqWo8bv/uCFN/BbaYUBmCG1rGjQfEnU7zVZ28bwfaS6zwGdYXAh2jWtNCXH7o89ibZLLHt3acTCge195/9AP8AyNNk1ooDIVmh4ITQ1uZ2k7XE1J3lH47y5Fzsih0Z6NiyEuMUvc5oaWgShtAM5NGZ4k12LOdJGfxMXiPNrStPdt8NiWjqgZnA4+Bb9Vn+lDP4l/8AYf8A42obbds3BJbIEgJOCc1PLVkoUsC4W0VhrVwtogY3CusFU6STRVIRwCi65IpkWIAgDrjVPhWl8OrHuadrSQeclXfFG1IumKFa0yW9BqT2stWm9I0QBr4hIGVGjzABPNDrY8mUyVIXKvaylbb3CkiEFSgquCpQUwJ5qVhVaakYUCLM1ZhqnNWYbkgJma8VZsyptcrVlcgC/DarBbkooKt4UgI8CSnwpJAU7XfXWObDgmb30G7aTKeUjt3TyRNnRqCwB8WcaICCS4kM9zXg6fyUlgu+BZAerE3nvPdV7ueg3CQQO/8ApFgBDXdrIagcteCotnUCXO8gzed8iGJuKzcWJabW4NhsLIZr1jwWsltBPf4CfzU1z3VGjRBHtLQ2GKthvE3OOhc3QATodZU2mr2vdjauOxomZipyGxVjiUd5bsauXHBJcF1QbOcLO3EcDiiO7x1IHstpkNlZoN0rZK0ne1vwl8ly4L0dFtrGt7oDy7KnYcBOe+VBXPYVN0xH8QDtht/5OWcl6rZqNcIBtUmiaNU8ZKRsikmkJ6aUgOALjcyuOeAhka1l5IZRur9OA2lajFydIUmoq2TWu2SOFoxO2bN52BVHPw1ccTz4DcB81GYgbNrOJcfiSqFptgaZCpOu75Dcu7HhUfk455XL4O2y0POvxKrwLc8b+Br4FWQ0Oz13pC7mn7xHGRV9LIakWIN8DJwrvoVadHY/J0uP1CG/sp8qEEVz35yBBAVePZHw6uY5u8ZfMfBTlii+UUjlkuGGOpOleFfzSBqg0O0PGTp8eyctuXmiVnvAy7baUqRMVyqpPxl0yq8h9otTUqUIQ35GXn8VY/UXfdId5HwUZYJroqs0GRTViGVWiQy3vAjiE4OyUmilllr1asrlQa5TQokkhh6C6qIsNAs7CtVUUhWqgWRBRJVf1kbUkBQCj3pGtTzCs7Z+040a0bXO04CqNXTckKzfvHHrIvtkUbuht+7xz+Cis7eqYGQ2gNGQb8dpJ2oFfV9RAcAY/ETICRmTsbt4rtUNGyRNOL3bDV83+GzE67PqgNhu+PbnYu5C/mOFOENv3uOWddFaubo+CREtZDjmIU5tH9Z+8d2XFHLyvprGyBA2AfABGyNU5fpFu47BAspDIQ7TiA57qvdIGUzoM6Cip9Mh+9hn8EvBzvqg1yWuNaLVDdDaTDY9pe4mTQJ1E9XS0H5o502PahH8LvIt+qjlu9wjXRnZ1T25KEmqvWO7osXuQ3EbZSb4lRZQpEqC1WlrASStHG6JxsE8Yx6NAmObpj4LH3jdcaAS+PDdMZGRLG8D8ytY4qbqxZG4q6K8WIX1f2W6N1PHYNyhixpj2WDlTd9VG986uI4T45+SH21kVziWgOYQKTAyn9V6EIKKpHBKbk7ZbEdrwWjKo8RIniq0O7XgSEQOGxzaKvDa5mbHt4DE0cwr1ntYORB4HLloVVJEm2cbZ4rf9Oe9jgfJ1fBPEaRGKbf6gW8hPNXbJEPA780as9nmJETnmqKLMOSBFnj+WSK2eJ4rkTo5DdVmKGaVYZD3DNvkohdVqhGbcEUc4bvAzaTzCL9oW3TLcW4oUSpZI7W9k+VDzVM9GnsM4UTgHCR95v0VuBfWCkaG+HtLwQPfE2eaP2C2QokiHiRlLKUuOSKixXNGSNiez7WzmVO0yute7XbUhWbKGn7OLWvZdnnQaabtPDYvgT3jTeoLRdcN/fY13ECnDYk4GlkA7etGbMY2t7U5CZMs5cQozDgvzbhO6nkrrroLfsoj2bj228w6vmEnNjZRIcOLwo7KWTvqsShfKKRyemD3XTqx89x+oVaLZXsq5tNoqPJXYsWE2jjEgmg7QMs6mtHcin2m0dW12NwM8tJjaRooSwQfGxeOeXYHMRWBa5BD3RNUTstiDRji8Qw/F27cuOONydI6ZTUVbHfr6Sk/aw3eA+iSt/Tfsl9f9BgHYZca+YrnuUkMOdQMLsqNGLPh6+W5snRuzt/08R/ESfKcvJFoUBrRJrQ0bAAPILq1nNpPP4XRqNFFGmHvcZf7anyTYX6Mcb8VotTnN9hjcM9xeSTLgAvRpLmIf4U3XJTVKqsz1o6LMbDa2zEsLHMIFMJa1wLmSApMTrtQK8LB+tPaHBzAzFsmZ4c85Zea3vlxQW2wg2NPR0jlrkfMT5rnzx2TRfBLdpgyw9H4MOoYCdpqfPJFmQgulya5yhSRe2xzpBU4uEznI8fgq1otZn80CiW2K4mTg0TMqTdUmWdOUluGOWX8UZnkjiVyZevLolY49XQGg+0ybHcZtlPmsjf3QbqWOiQHufhrgcATLWRGZWggR47W4WxXEDUhpPMyU0CNHAM4gcD7TRMUyEpS/NdUcGeHDOWXkYJ8r+DzixwcUpa+vXNE23Sx/eY07yATxmitquN3WOfCLGA1wyI7WpxA5bpLn6jHYJSa4cZH4AeS7lut0cLe+zA8Xo9KsN7mbAe22Z2h1fApkJ9pg96F1jfahnFzLHSPJs0ZnEnVjh4HjkpRaRwKNPoWv2Vrt6QQScJOF2rSMLvcdIgI0yMx1QRwy8kOiQYcUFr2teNhAI5Aqs+5oY+yfEhmlGum3hheCAOEkboPtZoDBEpyQyNccFxJwBrjmWEsPMsIJ5qqwWpmTmRRsqwy3A4gTzantv7AP30N0M7XCg074m2fNK12FSXA/wDUI0OsKOTn2XgeAc2UhxBXf2rHaf30Fx2uh9seQD/9qsQrxY4TDhX1wVhpBoDVNR9Dv2iGzX1CeSJyd7JzHEGo5ohCwO7QcDTwHyVS0WaG5sojA8bHAGu3cs7bI8KzYjDnM6Fzny/pxE1Scq5HGKlwFb7vVrAaj5c1h7fbXRXVnU0bqTOk9eSbHjPivAALnE9lo9Z57h8D1gsLLMMbiHRTrmGz0bv3qTdlkq2RNZrI2CMcWRfmG6N3nafgoLRaZuGM591p1lt8qeOwti2gYu0e1LEBPKuc9tNv5Xuj9xwrUTEtDCWsOFjZlszLtEyIJApLmo7RWxbebB3XjZ8Eltf/ABKx/wAo/wDuxv8A9EktcTX0pHpU93iUxztpAULog1J4BMc+WgbxqfBMnRMXjYTxyTHR9Jgbm1PkqsWNtmeP/UU8UIvTpDBgNJiRAJaCvKTfmkOg+Ig1DjxIHlNDb6jAGGaDOg2Ag6eqrzi9v0qtZSBZ8W+IWt5yaD8Qs3YunVqtlpAjOhsaGuwhjcMiJOlUmcwNdiUscpKhxnGErPaxHBXSaLBs6TvhkNMn0Ep0MpbQrjemEjWGfEH6KL8bKui68jE+zTWuwiI0gEtJBEx9EDi3ZFh95sxtbXyzHmrFk6Uw3Ztc3z+CLwr1hu7rgd2vgtQlkw9GZxx5+/5AUFwrLmNfBWXgESV2PChxjhcK6Fpk5spzkdlNUJt0KLBfhf2mmrXjWUpgjRwXbh8hZDizeLLHvyiYsGarOb45evBNMdNixcl0HKO6sOppqVQvuK2z2aI9oAwCh3kgTO01VyFGE5bQfKR+SzvT+N/BvbXtFvk7EZ+CYdmaua2R8Do5D4hc4dloLsDZO0FSeCIWfpACZEyIzBoRxByKCXPecaDGhwXNbhiM6yYEjKTpESp91aaNGZFpEY14G0Ay4TFOIU9+itLsnZfLTQGvrRWodtBpNAn3LCP2b3w908bfB1fNQxbotDAcDg/+k4Xe67s+BTv2g0+maD9QguM+rDSazZNhO8lkp85qK02GIztQow/peM9we3IcWlCLrtserHNMxmXtcyW+RzXLzvYjstMz68AsSaXBqMZPkvXpfJaMOLE7L/GwLNt6yM/C3tPPg0a8BWp9HlmgPjPwtr7TjkB9NyOwg2C3q4Qm45u1O8nQVUm/ZZLpDrNCZZmyb2ojs3ancNjfRUP6wJmZm8abJicm7eI2qE2loBcDiNZnUSoRLQT8UXunoxAiN62NjMV9aPc3CNAA0jSWc6qcppclYY3LZE/R3o5AtA6+0Mc5xmGDE5smik+yQZkz8kcb0SwHFZ7TEhn2X/vGndObXeLih8G4I0OtntJl7MQTE/6mS82lXod4WuF9pBxjazteQGL/AGBT1Xwy2ilTRZ/ZNt/nQvB30STP/JR/Kie4/wD6pI+4X2+/8m2dGzJMh4cyTkgdv6QNbMQ+0doy5uzKB3hecSNRxk0ZNGXE7TvKpKyh7Odz9F6LeESK6TnSB+6KD8+awXS2y2gPJwuczaKyGtBVa+fr16yUsVxnoR4Hzz5fkt1Ri7PFLVF0rnXbz+ijgNIcHMcMQqJ0qvYLbdsCKZRIQxbZSd4iqA23oUx1YbhwcAfMVToRSsd4h0NnWAte2h3jjkUTi2gOYCDks/HuG0wMmuw/h7bfDMKq20kZt9w4T7jqTVYtkpRRs7NEJGaKwZkA/Ref2e9i2ge3TsxJwzwDqh3JHLH0lwCUVjmbyJt95swOZWtSZjTJG0s0Z7atNQp4lsc+WOZ8EAsl8sfKTgQZZVHiibI4ORWVjinaQ3lm1pbdE7gPQ9egnNhzCdDMwnw1swDrQcLgdhrw1QrpnZccBwnr5GbSfNF7wbNRWmF1sGXtNw+UkAYF1oH6vYoxALobokN+3CDhe2eyTvIJlodEguI7RYKh5BwlujsYEpkaKtaH4IUeG7IP6wf3gB494eSNdG7c4wGTOUxyBy81Peyu1FSyX7J0nNptFfhlzR2y3gHDE3Ife0/NVLbYYESTjDAdOZc2bZ7iG0cd5yVG8bTTC2jRs+AHzSc3waUE9yS9L1JJa08T6zO5D7BYnRjSjPvO+W8/BOui7zaHHRjKulmZ5DiZZ7kUiWgSwMkxgpuFQJDa6qkVJXRGw29XCEgMzyzcdpkqkW0BoGHtF2RzLicue5MezrCIDDIv7M85T7zjtkJnlKi0Fl6Dta0dVaYgcJVeGuaZbm4SORWGzaRHYOh8AMrEiiIe0XBwAxEzMmlpbLiJ71eZclqh1hRmxW7Hza7x7QP+1PhXdbIPeYIoH3mETlva7CfDErlnvfCcL2yd7Lpsfya8AlRan8nUpYvgrsvCNC+2hPZvlib7zSWt5kIpYr4Y4TnQ6jtDxCtQLyhmhdhP4qeafGuyBE7RY2Z+83suP97ZO81h12ii1dOxftCF7Y8ElH+xIftRPeKSKiO5+v5/0BvXr1sSSSC7jzDikipifF04IAYCctNhqOMjRJoG8ZZV40OZ5hJNe6QnIngJnwCAJg87QfI+eZ4KrbLBBi0iQxPbKThzoQnQ47XZHiNRxGYUgectNmYntkUCM/behzHfZvl+F/aH1QO0dHrRA7ocB+A42+6cvBbsvAIzEyBMHcayOZptClDztB8j5/ATWtXsWn0eXYDMl0MYvahkwnz3icjzKt2W84kM9mNP8MYYT77RI+BW/tVjhRKRIYnvEj9UItXRNhrCiFu53aH1TTXwZafyRWDpWW0jQ3M/F3mS24m5DjJaGw3rDiVa4EHIgzBB3rD2ro9Hg1awgZzhmY4lmR8Ch7Ij2vnhGKkyJwolPa0dwMgt2/km4r4PSra/Ym2R37sjYfI1WNg9IXASeSN7xLXVzez8EQu6+5vlhJD6CVRPTLLUVT1ITizO9PRhfQTxkTGpnpxnI80+47mfDhgxzI5iGDz7e/OnjsRc2YNiujPdjiTOD2YbdA0e1td4JPdt9ZZ7eCjJ29i8I0tyOK+m7Z6yHreAt4RZonaXoFbnLJo0XQC1SfFZKc2h3gSD8fJaS8Lks9oGFwLazmw4a7ZZHwqvPujNr6uPPaJeYPyXo1ntYdUyPH5kVQgBLei0SEcUCOHECnWAT4YwJAf2q1AvC1QftYDiNrO1zkCfOSKtfsJ0zrxrp4FTNinZi4Vy1lmBxCTimNSaIbB0uhOoTI5EGlfgjLLfBitwuwPbsIBB5GhQiPBhRftGNcdpFRwOY5FUX9H2Zwoj4Z2A4m+Dq/7lhwNqZoX3NAd9mXQv6D2eAY6bByCg/YkZlYcRp96H8MQceICDsh2yF3XNiDjhO/vU81ch3/EhSMaC9gyxEdnm4UnumstPg0nW6Ln6lath96Ekuf8AlUL2klnSvRv6svZBHsj2d+GQPabUZb6E8xqoAyeRB3ZHLYc+W5Urq/SGJ4bRAfDORcztN5tMnDliWkslrslqH7tzHHXCcLxxZmOYU1myQ/JB9OEuAKRLNPfkEYiXOR9nEB/C785j4IXaYRZ2XCRGf1+a6MeZT2RGeNxIF1v0+IXElUwQXrdzYzakse3uRGmTmncdRSoNCqV1QLYHBkYwXjE1ofiLHEEyxlpbhkKzGKdKAo1HguhkNeJEgOlrIzl81fuW7utcS7uNz/Ec8PDb+azKSUbs1GL1VRWvC5YzC0hpeybe20UrTKcwMq5VVEmsjmKHiFrekd5YIOEdlzi1jQN3aJ3ANafELD2uG50R0TrHAuqQA3DOUpylSctN6nilKXPBTLCMXtyXmv8ADYajwNF0EcMqjzJBzPgqEN7hqDyI+adGtnVtL4gk0feBxCW8UPkVYiEQ87Qc86GnGnmeahtVmhxKRYYPEV5aroTmuI+mnMZHVAgRGuaCyrS4bpzHmhcoUNxEFga51CQKmu71tR+3EatBz1InPgaclmCZOkBKkidTx8NJIbbBJInxa67dmR8UxxXVG8pDKtpcgttReOUHtxQwK1jd21sbmtpkJrF2Q9vktLdRQgZtIEaasNKF2Nyvthh2c+IJGzxTAs49tcs60Gk8wOC6CN4z38P8zKG22JFhDG1pjMHeDZdY3eBQPG4SNNUruveFGE4bwdoycNxaahABURSNhy89JGp5fBSttdMMyBOonSe9uU0Pe6rePyKmx8+Nc88+aQD/ANWg/wApnuN/6pKHB6qkjSh2zzC7ryfiLxDDmCc8QpzKMWRsKO3HWC4V7Uywbw7vNruKLHo7FhvM2AwZHDLCWBsqTllzkhzbO2Ox7COrDO0BOrxMA4jkJZqJtoKWG9LdBE4b+vYNpEYS4tONvMhHIF4m0MEVzAxxJBaCTVtNRumsXEhO6vDZjMAgOeAZN2Bs9dJrVXKXdTJ7i5zSQSSScgZGfFOEUnaQSbqmW06GZETymPird13XEtDsLBQZuPdH57lp2dDoQAxRHk65AHln5qraMIA3nDfGjhrRNxGwyAnmdgr5rRiG2FCEPOQEydZCpVqJZ+qmSJjaNwlXZ+aHRozSZuMm5ngKy5ylLevNk5JaWej9s5aomX6REl7YjjSZhhuQbNpdi4nCBLgq173a+BLHIgmQLTPSeoCIWyF18UMIoDjdLa6YA5AnxCtdM3ANYwbfgD9R4qmDLK1HoXkYYKOrsysLPIqr0lb/AAsT+n5FW2mSttM13nmjoZoE4LgXQgZUt+SzMTvrTW7JZmN3/W1ADyo4hTyVDEKAK0ZB7ci0VCLckwKdj754LTXWVmLH3+S011oQM09kKIwnyQyyK+xMC/BdND706PQI5xlpZE/mQzhfz0PNWIZVlsXagDO/s62QiMEVkdoOT+w+UvaEwfJWYV4PH2kCIw7gHjxYSjD3Daq0ZAFb9oN/F7j/AKJLuJdQALu/pBFZUiQnmZNJJpWVHO2A4kXg3vZ40+sYJkSLpYXSOc3N7xO8ALHFuPtRJNYNNB9SnMLnHsdhg1kJneZii57LaTSXnYIUCyxYkGM4N7LpSmezMSa5gk5xxHKUtqL/AKPOj74rHB4LIYfOftzY09kih3kLKXD1saOyDZ8U3nCHkmX4nSzkBXPIL3mwWNsGG2GwSa0bAJnMuMtSanimn6MyQ6y2ZsNoYxoa0aD1U7Snl2vh9V12zxUESJr4D5oEKI7bmaS3LO3hYgH4SAWHIHLhyMijbn56nU6BVLxl1Zd7JBnzkR5+SlljqiWwycZAqzWRjO0M5TnITO4yAnsI4ESWY6QWvrIplkKfX1uRy+ryDYZwmsifJZIrPixtuXop5U3ST7OSUsF6jkkF3HCXF1MY5PTAq23JZmP3/W1aa25evW1Zm0d9IDpUEQqZxVeIUDK8RCLei0VCbY2Zp/jikwRTsff5LS3WgUOz4ZHU+PNHbrSi7G1RpbIiDEPsiIMWzJOxShRMUgQA13ebxP8AxKc5o2Lju83n8CulIBnVj0Uk5JMDFxbI49uKMLG5DQbt5URBfV3YhjT/ALbTuW+tlyl8Qsw9mHLPLERPymEJtNyiM4ADstJAA1dOVdpmuZxaOhSTNJ+iO7ZtiWotk0kwoU8yBWI/xk0cHbV6NNUrosLbPBhwWCjGgcTm48ySeatkpowxrtm3PgqdoiZk+gKAc1cOpQ68oZwHg3wH+UpOlY4q3QMj3zDbObpyzoXAT0IFAeM0AvvpCYrTDhghplNxlMgGcgBlkE2xwgbZagRmyAQdkg8TB0zU8e6GOyp/meep4zUYZYP8isoSi/tMzGFDwK63IcB8ERtd0PaDKokd/AUqTyAVHqXNAxCUgAdk5CkxTYuyDi19pzSUr+4aklJdktmSWCVKoYRUs0AV7Zkszau+tNbMlmLV30gOOUEQqV6iwT4anYlYyu8TyXBY9Zetp+mniTdgvA0kN9eZI4qSIA4SFOC5cmXVsuDphjrdgC2CUuKJXWlGu5zjQB271XwVqwWMtoQ5p3iYnOtRUeCpinFKrJ5IO7DdjV9iqWaC4CcpjaKinDJW2K5EmYpQo2BPCYCPebz+CcVGT2hwPyT0AJJcmkgDUWK+x1b8UMTc6I8kVJccWEAcZBGLquyGxrJNmWgZ+1mSgvRiyULzlicBycZlaptpAoPJQbKJE5J/wmOfvSDtxSKQxrX7CCq15WgBhDpdqbQNtE6OzUUd5HjtCGXvDxiG85tdXg5pB85LE21FmordGbstLdGG2Aw+68D5oshWV4cbKfKK1FSFwnWzslFFs7XZiu3XxFdSpJJApp0ZaBUe5WnumWXlvG7aD9Rtoux7aymK+R+i1EksCvHyJr9kpYYsxhYWmol6/NSgrWOsTHd5o25aylM7eaox7jB7h2eWZ3ndTJdEPJg+diUsMlwZq15evWxZi2d9bS33ZEH3Sc9DptIpXiUDhdHY8aIJMLW5lzgWgeI+E1ZzjV2TUZXVA2wWB8Z4YwcToBqfyWjPR1rWhuctd8hM+S1V2XZDgMwMHF1JuO0lWHQAvPzZnN0uDrx41Hd8nnlouRwyQ6LYnNNQRwXpkWxDYqEe7AdFFSaK0YWxQ3YxKR4081uLFBm0dYyY/EJjk4KkLoAdOSOWAFuRIQ5WBC654Rq2bDtFR9R4qrHup4+6HilRnIcK8yCtD2Tm0cR2T9Fww9juTqHxyW45JR4ZlwT5RknQgNozoRPgJgZ8QFx0Miuk5TFRPOUxRauPBB+0bPeRPwcqMW6WE4mOLDoc/OhC6I+U/wC5EZeOujOk9ocD8k4lEbRdURpnhD5CU258aSM6ZkFUXME5TLTPJ2n9w+gXRHNCXZGWKSI0k2Y2jxSVbRimb+xjBDaBsHiVdsolXVDrK7FLcB4onChnguZF2Wg9dLppjWb10t3rRgTmTFUBvyPhLIernAngKeZPkjcSJLMhZ7pE4F8I6gy8wp5PxZuHIFeP4+EdsCIPBwd8kXe1B7cZW2y72xh4Q3O+SMOJXCdbGgJErocE4BAhjZKUCSYWrrZoAkDkphMxbl2YQFD1whcCQegBYVyScCuzQA2a45oOYTlySAI3QBomtZLRSyTgigOAJELpalIhIDrXkZHkkS05tkdraeWSaHJSQA4s9l0+ND9FBaIQNIjJ8RI+KlTg8jI8tPBasCh+y4PsH3ikr0/wt8AkiwLd3fZtRKDkkku85GSNzTyupLRkGXlnyWfvfOFx+bUklHJwysOgbeX/AK2x8Y3/ANDkceupLiOkiTm5pJJICRNGaSS2JDimOSSWRj2LjkkkxHCnBJJIY9cSSWjJ0JpXEkgHtTwkkmAyIo0klljQ7RdKSSAGpJJIGf/Z",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Brody",
+            "rating": 5,
+            "comment": "Love the extra storage!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 900
+      },
+      {
+        "id": "storage011",
+        "name": "Shoe Rack",
+        "description": "A sturdy shoe rack with multiple shelves.",
+        "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "image": "data:image/jpeg;base64,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",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Jaxon",
+            "rating": 4,
+            "comment": "Great for entryways."
+          }
+        ],
+        "ratings": 4.3,
+        "price": 870
+      },
+      {
+        "id": "storage012",
+        "name": "Storage Ottoman with Tray",
+        "description": "A multifunctional storage ottoman with a tray.",
+        "longDescription": "This storage ottoman with a tray is a practical and stylish piece of furniture that will provide a perfect spot to store your belongings and relax. Its multifunctional design makes it a great addition to any room. The ottoman is made of high-quality materials that are durable and easy to maintain.",
+        "image": "https://media.istockphoto.com/id/1290380423/photo/elegant-decorative-pouf-in-the-living-room.jpg?b=1&s=612x612&w=0&k=20&c=G9N7TUMliXhUZh_MAFELqKjtTFNGevfBkx6l0ZIwX1o=",
+        "category": "Storage",
+        "reviews": [
+          {
+            "user": "Parker",
+            "rating": 5,
+            "comment": "Love the extra storage!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 670
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+:root{
+    --head-color: #fc8905; 
+    --main-color: #141414;
+    --transparent-black: #000000dc;
+    --text-color: #fff;
+    --light-text-color: #d6d4d4;
+    --shade-blur: rgba(0, 0, 0, 0.712); 
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+

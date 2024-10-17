@@ -1,0 +1,161 @@
+{
+    "living_room_designs": [
+      {
+        "image_link": "https://www.marthastewart.com/thmb/VjOTKcBvJhU1nvCmeRtrb0cxNy4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/modern-living-rooms-wb-10-cd33885ccbd047739c0d21d8c03083e3.jpg",
+        "products": [
+          {
+            "name": "Gray Sectional Sofa",
+            "price": "$1,200",
+            "material": "Upholstered Fabric (Linen)"
+          },
+          {
+            "name": "Wood Coffee Table",
+            "price": "$500",
+            "material": "Oak Wood"
+          },
+          {
+            "name": "Abstract Wall Art",
+            "price": "$300",
+            "material": "Canvas"
+          },
+          {
+            "name": "Large Area Rug",
+            "price": "$450",
+            "material": "Wool"
+          }
+        ],
+        "description": "A stylish modern living room featuring a gray sectional sofa, a sleek wood coffee table, and abstract wall art. The large area rug ties the room together with neutral tones."
+      },
+      {
+        "image_link": "https://www.marthastewart.com/thmb/kPiRTVhIJLFNULyOGwdGLlFum5E=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/modern-living-rooms-wb-2-110f2a78733d4304b000711393d1aaec.jpg",
+        "products": [
+          {
+            "name": "Beige Sofa",
+            "price": "$1,100",
+            "material": "Velvet"
+          },
+          {
+            "name": "Glass Coffee Table",
+            "price": "$400",
+            "material": "Tempered Glass"
+          },
+          {
+            "name": "Round Mirror",
+            "price": "$200",
+            "material": "Brushed Metal Frame"
+          },
+          {
+            "name": "Potted Plant",
+            "price": "$50",
+            "material": "Ceramic Pot, Live Plant"
+          }
+        ],
+        "description": "This elegant living room combines a beige velvet sofa with a modern glass coffee table. A round mirror adds depth, while the potted plant brings a touch of nature."
+      },
+      {
+        "image_link": "https://www.marthastewart.com/thmb/7-2b0yaV0_4-CAos5dRVTKCwgPk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/modern-living-rooms-wb-9-76764637c22c4e1e8238206a23de0f5b.jpg",
+        "products": [
+          {
+            "name": "Leather Armchair",
+            "price": "$900",
+            "material": "Genuine Leather"
+          },
+          {
+            "name": "Minimalist Coffee Table",
+            "price": "$350",
+            "material": "Polished Wood"
+          },
+          {
+            "name": "White Ceramic Vase",
+            "price": "$60",
+            "material": "Ceramic"
+          },
+          {
+            "name": "Modern Floor Lamp",
+            "price": "$180",
+            "material": "Brushed Metal"
+          }
+        ],
+        "description": "A chic living room featuring a leather armchair, a minimalist coffee table, and a modern floor lamp. Decorative touches like a white ceramic vase enhance the room's appeal."
+      },
+      {
+        "image_link": "https://www.marthastewart.com/thmb/54SxyMmytiTBBOCSi6426RTQscA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/area-rug-under-couch-getty-0521-2000-364b7d2119a3482faa6863f72a8a1e16.jpg",
+        "products": [
+          {
+            "name": "Wool Area Rug",
+            "price": "$600",
+            "material": "Handwoven Wool"
+          },
+          {
+            "name": "Modern Sofa",
+            "price": "$1,300",
+            "material": "Upholstered Fabric"
+          },
+          {
+            "name": "Wooden Coffee Table",
+            "price": "$400",
+            "material": "Natural Oak"
+          },
+          {
+            "name": "Floor Lamp",
+            "price": "$150",
+            "material": "Metal"
+          }
+        ],
+        "description": "A contemporary living room with a large wool area rug, a modern upholstered sofa, and a wooden coffee table. A floor lamp provides functional lighting for the space."
+      },
+      {
+        "image_link": "https://www.marthastewart.com/thmb/-MaU_9cCmmSwDuJU-Jb1CgRSpD4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/velvet-couch-article-0520-6d339aff3c674291840261ec9971c903.jpg",
+        "products": [
+          {
+            "name": "Velvet Sofa",
+            "price": "$1,400",
+            "material": "Velvet"
+          },
+          {
+            "name": "Marble Side Table",
+            "price": "$300",
+            "material": "Marble and Metal"
+          },
+          {
+            "name": "Accent Pillows",
+            "price": "$40 per pillow",
+            "material": "Cotton"
+          },
+          {
+            "name": "Brass Table Lamp",
+            "price": "$250",
+            "material": "Brass"
+          }
+        ],
+        "description": "This luxe living room showcases a velvet sofa paired with a marble side table. Accent pillows and a brass table lamp add sophistication and comfort to the room."
+      },
+      {
+        "image_link": "https://www.marthastewart.com/thmb/0y1PEnW28JEbfXmzjKlpDbj83YA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fireplace-decor-12-marble-wall-1023-4334f600b9ad45e2b18a3beccdc040a3.jpeg",
+        "products": [
+          {
+            "name": "Marble Fireplace",
+            "price": "$3,500",
+            "material": "Marble"
+          },
+          {
+            "name": "Wood Mantel",
+            "price": "$600",
+            "material": "Natural Wood"
+          },
+          {
+            "name": "Decorative Candle Holders",
+            "price": "$120",
+            "material": "Brass"
+          },
+          {
+            "name": "Framed Art Piece",
+            "price": "$200",
+            "material": "Canvas"
+          }
+        ],
+        "description": "A sophisticated living room with a marble fireplace as the focal point. The wood mantel complements the marble, while decorative candle holders and framed art add style."
+      }
+    ]
+  }
+  

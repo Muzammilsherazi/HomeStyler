@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "category": "Cabinets and Pantries",
+    "products": [
+      {
+        "id": "cabinet001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Modern Kitchen Cabinet",
+        "description": "A sleek and modern kitchen cabinet with soft-close doors.",
+        "image": "../../public/kitchen/backsplash.jpg",
+        "category": "Cabinets and Pantries",
+        "reviews": [
+          { "user": "Liam", "rating": 5, "comment": "Stylish and functional." }
+        ],
+        "ratings": 4.9,
+        "price": 499.99
+      },
+      {
+        "id": "cabinet002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Pantry Storage Cabinet",
+        "description": "A tall pantry cabinet with adjustable shelves.",
+        "image": "../../public/kitchen/ButcherBlockKitchenIsland.jpg",
+        "category": "Cabinets and Pantries",
+        "reviews": [
+          { "user": "Emma", "rating": 4, "comment": "Good storage but hard to assemble." }
+        ],
+        "ratings": 4.5,
+        "price": 349.99
+      },
+      {
+        "id": "cabinet003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Rustic Wooden Cabinet",
+        "description": "A rustic wooden kitchen cabinet for a farmhouse look.",
+        "image": "../../public/kitchen/cabinets.jpg",
+        "category": "Cabinets and Pantries",
+        "reviews": [
+          { "user": "Noah", "rating": 5, "comment": "Gorgeous and sturdy." }
+        ],
+        "ratings": 4.8,
+        "price": 579.99
+      },
+      {
+        "id": "cabinet004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Sliding Door Pantry",
+        "description": "A pantry with sliding barn doors for easy access.",
+        "image": "../../public/kitchen/ConcreteCountertop.jpg",
+        "category": "Cabinets and Pantries",
+        "reviews": [
+          { "user": "Sophia", "rating": 5, "comment": "Unique and practical." }
+        ],
+        "ratings": 4.7,
+        "price": 499.99
+      },
+      {
+        "id": "cabinet005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Glass-Front Cabinet",
+        "description": "A glass-front cabinet for displaying dishes.",
+        "image": "../../public/kitchen/countertop.jpeg",
+        "category": "Cabinets and Pantries",
+        "reviews": [
+          { "user": "Oliver", "rating": 4, "comment": "Looks nice, but fragile." }
+        ],
+        "ratings": 4.6,
+        "price": 399.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Countertops",
+    "products": [
+      {
+        "id": "countertop001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Quartz Countertop",
+        "description": "A durable quartz countertop for modern kitchens.",
+        "image": "../../public/kitchen/FarmhouseSink.jpg",
+        "category": "Countertops",
+        "reviews": [
+          { "user": "Ava", "rating": 5, "comment": "Looks amazing and is easy to clean." }
+        ],
+        "ratings": 4.9,
+        "price": 799.99
+      },
+      {
+        "id": "countertop002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Granite Countertop",
+        "description": "A classic granite countertop for a timeless look.",
+        "image": "../../public/kitchen/FoldableKitchenCart.jpg",
+        "category": "Countertops",
+        "reviews": [
+          { "user": "Mason", "rating": 5, "comment": "Very sturdy and elegant." }
+        ],
+        "ratings": 4.8,
+        "price": 899.99
+      },
+      {
+        "id": "countertop003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Marble Countertop",
+        "description": "A luxurious marble countertop for high-end kitchens.",
+        "image": "../../public/kitchen/GlassFrontCabinet.jpg",
+        "category": "Countertops",
+        "reviews": [
+          { "user": "Amelia", "rating": 4, "comment": "Beautiful but requires maintenance." }
+        ],
+        "ratings": 4.7,
+        "price": 1099.99
+      },
+      {
+        "id": "countertop004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Laminate Countertop",
+        "description": "An affordable laminate countertop with a wood finish.",
+        "image": "../../public/kitchen/GraniteCountertop.jpg",
+        "category": "Countertops",
+        "reviews": [
+          { "user": "Lucas", "rating": 4, "comment": "Good for the price, but scratches easily." }
+        ],
+        "ratings": 4.5,
+        "price": 199.99
+      },
+      {
+        "id": "countertop005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Concrete Countertop",
+        "description": "A modern concrete countertop for industrial-style kitchens.",
+        "image": "../../public/kitchen/KitchenCartwithShelves.jpg",
+        "category": "Countertops",
+        "reviews": [
+          { "user": "Charlotte", "rating": 5, "comment": "Unique and durable." }
+        ],
+        "ratings": 4.8,
+        "price": 849.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Sinks and Faucets",
+    "products": [
+      {
+        "id": "sink001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Farmhouse Sink",
+        "description": "A classic white farmhouse sink for a rustic touch.",
+        "image": "../../public/kitchen/KitchenIslandwithGraniteTop,.jpg",
+        "category": "Sinks and Faucets",
+        "reviews": [
+          { "user": "Ethan", "rating": 5, "comment": "Deep and spacious, perfect for my kitchen." }
+        ],
+        "ratings": 4.9,
+        "price": 399.99
+      },
+      {
+        "id": "sink002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Stainless Steel Sink",
+        "description": "A durable stainless steel sink with a modern design.",
+        "image": "../../public/kitchen/LaminateCountertop.jpg",
+        "category": "Sinks and Faucets",
+        "reviews": [
+          { "user": "Isabella", "rating": 4, "comment": "Looks great but shows water spots." }
+        ],
+        "ratings": 4.6,
+        "price": 249.99
+      },
+      {
+        "id": "sink003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Undermount Sink",
+        "description": "A sleek undermount sink for a seamless look.",
+        "image": "../../public/kitchen/MarbleCountertop.jpg",
+        "category": "Sinks and Faucets",
+        "reviews": [
+          { "user": "James", "rating": 5, "comment": "Easy to clean and looks fantastic." }
+        ],
+        "ratings": 4.8,
+        "price": 299.99
+      },
+      {
+        "id": "sink004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Pull-Down Faucet",
+        "description": "A modern faucet with a pull-down spray for convenience.",
+        "image": "../../public/kitchen/MetallicTileBacksplash.jpg",
+        "category": "Sinks and Faucets",
+        "reviews": [
+          { "user": "Olivia", "rating": 5, "comment": "Very practical and stylish." }
+        ],
+        "ratings": 4.9,
+        "price": 159.99
+      },
+      {
+        "id": "sink005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Touchless Kitchen Faucet",
+        "description": "A touchless faucet for hands-free convenience.",
+        "image": "../../public/kitchen/ModernKitchenCabinet.jpg",
+        "category": "Sinks and Faucets",
+        "reviews": [
+          { "user": "William", "rating": 5, "comment": "The best upgrade I've made to my kitchen." }
+        ],
+        "ratings": 4.9,
+        "price": 199.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Kitchen Islands and Carts",
+    "products": [
+      {
+        "id": "island001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Rolling Kitchen Island",
+        "description": "A portable kitchen island with ample storage.",
+        "image": "../../public/kitchen/MosaicTileBacksplash.jpeg",
+        "category": "Kitchen Islands and Carts",
+        "reviews": [
+          { "user": "Emma", "rating": 5, "comment": "Perfect for my small kitchen." }
+        ],
+        "ratings": 4.8,
+        "price": 249.99
+      },
+      {
+        "id": "island002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Butcher Block Kitchen Island",
+        "description": "A sturdy kitchen island with a butcher block top.",
+        "image": "../../public/kitchen/PantryStorageCabinet.jpg",
+        "reviews": [
+          { "user": "Mia", "rating": 5, "comment": "Great for food prep and extra storage." }
+        ],
+        "ratings": 4.9,
+        "price": 499.99
+      }
+    ]
+    }
+  
+  ]
+  

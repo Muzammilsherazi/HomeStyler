@@ -1,0 +1,213 @@
+.dropdowns {
+    position: relative;
+}
+
+.productDropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    z-index: 100;
+    top: -50px;
+    left: -170px;
+    background-color: var(--shade-blur);
+    backdrop-filter: blur(3px);
+    height: 300px;
+    width: 150px;
+    padding: 10px;
+
+    .item {
+        /* border: 1px solid; */
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: space-between;
+        padding: 5px 10px;
+        /* font-size: 1em; */
+        transition: .2s;
+
+        &:hover {
+            background-color: var(--head-color);
+            color: var(--text-color);
+        }
+    }
+
+    @media screen and (max-width: 650px) {
+        .item {
+            font-size: 1em;
+        }
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .productDropdown {
+        position: absolute;
+        width: 100px;
+        left: -120px;
+    }
+
+    .furnitureDropdown {
+        position: absolute;
+        left: -350px;
+        top: -140px;
+    }
+}
+
+.furnitureDropdown {
+    position: absolute;
+    left: -410px;
+    top: -140px;
+
+    ul {
+        margin-top: 30px;
+        height: auto;
+        width: 100px;
+
+        a {
+            margin-bottom: 10px;
+        }
+    }
+
+}
+
+.lightingDropdown {
+    position: absolute;
+    left: -410px;
+    top: -140px;
+
+    ul {
+        height: auto;
+        margin-top: 50px;
+
+        a {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.decorDropdown {
+    position: absolute;
+    left: -410px;
+    top: -80px;
+
+    ul {
+
+        height: auto;
+        margin-top: 50px;
+
+        a {
+            font-size: .8em;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.kitchenDropdown {
+    position: absolute;
+    left: -410px;
+    top: -40px;
+
+    ul {
+        height: auto;
+        margin-top: 50px;
+
+        a {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.bathroomDropdown {
+    position: absolute;
+    left: -410px;
+    top: -20px;
+
+    ul {
+        width: 100px;
+        height: auto;
+        margin-top: 50px;
+
+        a {
+            font-size: .8em;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .productDropdown {
+        position: absolute;
+        width: 100px;
+        left: -120px;
+        font-size: .9em;
+    }
+
+    .furnitureDropdown {
+        position: absolute;
+        left: -160px;
+        top: -100px;
+    }
+    .lightingDropdown {
+        position: absolute;
+        left: -160px;
+        top: -100px;
+    }    
+    
+    .decorDropdown {
+        position: absolute;
+        left: -160px;
+        top: -100px;
+    }    
+    
+    .kitchenDropdown {
+        position: absolute;
+        left: -160px;
+        top: -120px;
+    }    
+    
+    .bathroomDropdown {
+        position: absolute;
+        left: -160px;
+        top: -80px;
+    }    
+}
+
+#subProductDropdown {
+    border: 1px solid #ffffff13;
+    backdrop-filter: blur(6px);
+    /* width: 100px; */
+    background-color: red;
+}
+
+.designDropdown {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    z-index: 100;
+    top: 240px;
+    left: -123px;
+    background-color: var(--shade-blur);
+    backdrop-filter: blur(3px);
+    height: 220px;
+    padding: 10px;
+    /* width: 150px; */
+
+    ul {
+        display: flex;
+        padding: 10px;
+    }
+
+    .item {
+        width: 100%;
+        justify-content: space-between;
+        padding: 5px 10px;
+        margin-bottom: 10px;
+        transition: .2s;
+        font-size: 1em;
+
+        &:hover {
+            background-color: var(--head-color);
+        }
+    }
+}

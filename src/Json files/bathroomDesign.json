@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "name": "Modern",
+      "description": "Sleek and functional with clean lines, glass shower enclosures, and minimal fixtures.",
+      "image": "path/to/modern-bathroom-image.jpg",
+      "costEstimate": "$8000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "2",
+      "name": "Traditional",
+      "description": "Classic design featuring elegant fixtures, ornate mirrors, and rich color palettes.",
+      "image": "path/to/traditional-bathroom-image.jpg",
+      "costEstimate": "$9000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "3",
+      "name": "Rustic",
+      "description": "Natural materials like wood and stone with earthy tones and vintage-style fixtures.",
+      "image": "path/to/rustic-bathroom-image.jpg",
+      "costEstimate": "$8500",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "4",
+      "name": "Industrial",
+      "description": "Raw, exposed materials like brick and metal with minimalist design elements.",
+      "image": "path/to/industrial-bathroom-image.jpg",
+      "costEstimate": "$9500",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "5",
+      "name": "Minimalist",
+      "description": "Clean, clutter-free design with neutral colors and functional fixtures.",
+      "image": "path/to/minimalist-bathroom-image.jpg",
+      "costEstimate": "$7000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "6",
+      "name": "Scandinavian",
+      "description": "Bright and airy space with natural wood, white tiles, and sleek fixtures.",
+      "image": "path/to/scandinavian-bathroom-image.jpg",
+      "costEstimate": "$8000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "7",
+      "name": "Bohemian",
+      "description": "An artistic and eclectic style with vibrant tiles, plants, and personalized decor.",
+      "image": "path/to/bohemian-bathroom-image.jpg",
+      "costEstimate": "$7000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "8",
+      "name": "Luxury",
+      "description": "High-end materials like marble and gold fixtures, creating a spa-like experience.",
+      "image": "path/to/luxury-bathroom-image.jpg",
+      "costEstimate": "$15000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "9",
+      "name": "Farmhouse",
+      "description": "A cozy, rustic space with wood accents, vintage fixtures, and a classic clawfoot tub.",
+      "image": "path/to/farmhouse-bathroom-image.jpg",
+      "costEstimate": "$9000",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "10",
+      "name": "Mid-Century Modern",
+      "description": "Retro-inspired design with bold colors, geometric shapes, and sleek fixtures.",
+      "image": "path/to/midcentury-bathroom-image.jpg",
+      "costEstimate": "$9500",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "11",
+      "name": "Eclectic",
+      "description": "A mix of styles and colors with unique tiles, bold fixtures, and artistic elements.",
+      "image": "path/to/eclectic-bathroom-image.jpg",
+      "costEstimate": "$7500",
+      "category": "bathroomDesign"
+    },
+    {
+      "id": "12",
+      "name": "Transitional",
+      "description": "A balance between traditional and contemporary, with clean lines and elegant details.",
+      "image": "path/to/transitional-bathroom-image.jpg",
+      "costEstimate": "$9000",
+      "category": "bathroomDesign"
+    }
+  ]
+  

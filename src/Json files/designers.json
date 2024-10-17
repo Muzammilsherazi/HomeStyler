@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Kelly Wearstler",
+        "profileImage": "../assets/images/kelly-wearstler.jpg",
+        "rate": "$300/hour",
+        "experience": "25 years",
+        "specialty": "Bold and Glamorous Designs",
+        "contact": "kelly@kellywearstler.com"
+    },
+    {
+        "id": 2,
+        "name": "Nate Berkus",
+        "profileImage": "../assets/images/Nate-Berkus.jpg",
+        "rate": "$250/hour",
+        "experience": "20 years",
+        "specialty": "Timeless and Elegant Interiors",
+        "contact": "nate@berkusdesigns.com"
+    },
+    {
+        "id": 3,
+        "name": "Joanna Gaines",
+        "profileImage": "../assets/images/joanna-gaines.jpeg",
+        "rate": "$275/hour",
+        "experience": "15 years",
+        "specialty": "Farmhouse and Rustic Styles",
+        "contact": "joanna@magnolia.com"
+    },
+    {
+        "id": 4,
+        "name": "Peter Marino",
+        "profileImage": "../assets/images/PETER MARINO.jpg",
+        "rate": "$350/hour",
+        "experience": "35 years",
+        "specialty": "Luxury and High-End Interiors",
+        "contact": "peter@peter-marino.com"
+    },
+    {
+        "id": 5,
+        "name": "Victoria Hagan",
+        "profileImage": "../assets/images/Victoria Hagan.jpg",
+        "rate": "$240/hour",
+        "experience": "30 years",
+        "specialty": "Classic and Contemporary Blends",
+        "contact": "victoria@victoriahagan.com"
+    },
+    {
+        "id": 6,
+        "name": "Emily Henderson",
+        "profileImage": "../assets/images/emili-xenderson.png",
+        "rate": "$220/hour",
+        "experience": "12 years",
+        "specialty": "Eclectic and Personalized Designs",
+        "contact": "emily@stylebyemilyhenderson.com"
+    },
+    {
+        "id": 7,
+        "name": "Bobby Berk",
+        "profileImage": "../assets/images/Bobby Berk.jpg",
+        "rate": "$260/hour",
+        "experience": "18 years",
+        "specialty": "Modern and Functional Spaces",
+        "contact": "bobby@bobbyberkhome.com"
+    },
+    {
+        "id": 8,
+        "name": "Jonathan Adler",
+        "profileImage": "../assets/images/Jonathan Adler.jpg",
+        "rate": "$230/hour",
+        "experience": "20 years",
+        "specialty": "Playful and Artistic Interiors",
+        "contact": "jonathan@jonathanadler.com"
+    }
+]

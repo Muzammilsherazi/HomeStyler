@@ -1,0 +1,27 @@
+[
+    {
+        "id": "sofa001",
+        "name": "Luxury Leather Sofa",
+        "description": "Crafted from premium top-grain leather, this luxury sofa blends modern aesthetics with superior comfort.",
+        "image": "luxury_leather_sofa.jpg",
+        "category": "furniture",
+        "price": 999.99
+    },
+    {
+        "id": "chair003",
+        "name": "Classic Rocking Chair",
+        "description": "This traditional wooden rocking chair features a timeless design, perfect for both indoor and outdoor spaces.",
+        "image": "rocking_chair.jpg",
+        "category": "furniture",
+        "price": 199.99
+    },
+    {
+        "id": "chair001",
+        "name": "Modern Recliner",
+        "description": "Designed for ultimate comfort, this modern recliner features adjustable settings that give you seating experience.",
+        "image": "modern_recliner.jpg",
+        "category": "furniture",
+        "price": 499.99
+    }
+]
+

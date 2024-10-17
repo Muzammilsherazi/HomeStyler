@@ -1,0 +1,168 @@
+{
+    "bedroom_designs": [
+      {
+      
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/modern-bedroom-design-idea-ipc007.jpeg",
+        "products": [
+          {
+            "name": "Sleek Platform Bed",
+            "price": "$1,200",
+            "material": "Wood and Fabric"
+          },
+          {
+            "name": "Wooden Nightstand",
+            "price": "$250",
+            "material": "Solid Wood"
+          },
+          {
+            "name": "Modern Table Lamp",
+            "price": "$180",
+            "material": "Glass and Metal"
+          },
+          {
+            "name": "Decorative Wall Panels",
+            "price": "$400",
+            "material": "Wood Veneer"
+          }
+        ],
+        "description": "A modern bedroom featuring a sleek platform bed with a minimalist wooden nightstand and contemporary table lamps. The space is enhanced with decorative wall panels."
+      },
+      {
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/modern-elegant-bedroom-ipc009.jpeg",
+        "products": [
+          {
+            "name": "Elegant Tufted Bed",
+            "price": "$1,500",
+            "material": "Velvet Upholstery"
+          },
+          {
+            "name": "Glass Nightstand",
+            "price": "$300",
+            "material": "Glass and Metal"
+          },
+          {
+            "name": "Crystal Table Lamps",
+            "price": "$250 each",
+            "material": "Crystal and Metal"
+          },
+          {
+            "name": "Framed Wall Art",
+            "price": "$350",
+            "material": "Canvas"
+          }
+        ],
+        "description": "An elegant bedroom design featuring a tufted velvet bed, glass nightstands, and crystal table lamps. Framed wall art adds sophistication to the overall design."
+      },
+      {
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/butterfly-bedroom-design-ipc087.jpeg",
+        "products": [
+          {
+            "name": "Butterfly-themed Bed",
+            "price": "$1,200",
+            "material": "Wood and Upholstery"
+          },
+          {
+            "name": "Themed Nightstand",
+            "price": "$200",
+            "material": "Wood with Butterfly Design"
+          },
+          {
+            "name": "Decorative Butterfly Wall Art",
+            "price": "$150",
+            "material": "Metal"
+          },
+          {
+            "name": "Floral Bedding Set",
+            "price": "$100",
+            "material": "Cotton"
+          }
+        ],
+        "description": "A whimsical butterfly-themed bedroom featuring a custom bed, matching nightstand, and decorative wall art. The floral bedding set complements the butterfly motif."
+      },
+      {
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/modern-bedroom-decor-ipc091.jpeg",
+        "products": [
+          {
+            "name": "Contemporary Bed Frame",
+            "price": "$1,300",
+            "material": "Metal and Wood"
+          },
+          {
+            "name": "Minimalist Nightstand",
+            "price": "$250",
+            "material": "Wood"
+          },
+          {
+            "name": "Floor Lamp",
+            "price": "$180",
+            "material": "Metal"
+          },
+          {
+            "name": "Accent Rug",
+            "price": "$200",
+            "material": "Wool"
+          }
+        ],
+        "description": "A contemporary bedroom with a sleek bed frame, minimalist nightstand, and a warm wool rug. The modern floor lamp adds an artistic touch to the room."
+      },
+      {
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/sensational-rug-bedroom-design-ipc142.jpeg",
+        "products": [
+          {
+            "name": "Luxurious Bed Frame",
+            "price": "$1,400",
+            "material": "Velvet Upholstery"
+          },
+          {
+            "name": "Designer Nightstand",
+            "price": "$300",
+            "material": "Wood and Metal"
+          },
+          {
+            "name": "Patterned Area Rug",
+            "price": "$500",
+            "material": "Cotton Blend"
+          },
+          {
+            "name": "Geometric Wall Art",
+            "price": "$250",
+            "material": "Canvas"
+          }
+        ],
+        "description": "A sophisticated bedroom featuring a luxurious velvet bed frame, designer nightstand, and a striking patterned area rug. The geometric wall art enhances the room's modern vibe."
+      },
+      {
+        "category": "bedroom",
+        "image_link": "https://www.alhabibpaneldoors.com/images/interior-item/modern-bedroom-in-unique-style-interior-design-ipc564.jpeg",
+        "products": [
+          {
+            "name": "Unique Bed Frame",
+            "price": "$1,600",
+            "material": "Wood and Upholstery"
+          },
+          {
+            "name": "Artistic Nightstand",
+            "price": "$350",
+            "material": "Wood and Metal"
+          },
+          {
+            "name": "Modern Pendant Lights",
+            "price": "$220 each",
+            "material": "Glass and Metal"
+          },
+          {
+            "name": "Abstract Wall Art",
+            "price": "$400",
+            "material": "Canvas"
+          }
+        ],
+        "description": "A unique modern bedroom with a distinctive bed frame, artistic nightstand, and modern pendant lights. Abstract wall art complements the room's overall style."
+      }
+    ]
+  }
+  

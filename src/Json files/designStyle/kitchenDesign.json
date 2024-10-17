@@ -1,0 +1,167 @@
+{
+    "kitchen_room_designs": [
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/lWTtStN-WhT-OuRp-njdoQIbYQI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/105-10fe717880e7489999aae9cadee3fccd.jpg",
+        "products": [
+          {
+            "name": "Modern White Sofa",
+            "price": "$1,500",
+            "material": "Linen Fabric"
+          },
+          {
+            "name": "Round Coffee Table",
+            "price": "$350",
+            "material": "Polished Wood"
+          },
+          {
+            "name": "Textured Throw Pillows",
+            "price": "$45 per pillow",
+            "material": "Cotton"
+          },
+          {
+            "name": "Indoor Potted Plant",
+            "price": "$60",
+            "material": "Ceramic Pot"
+          }
+        ],
+        "description": "A modern living room featuring a white linen sofa paired with a round wooden coffee table. The room is accented with textured throw pillows and indoor plants for a natural, fresh feel."
+      },
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/hELG0xu2sl7LPi62uDc4wV914gw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LINDYEGALLOWAYSTUDIO_PHOTOCHADMELLON1-3615aa2cf9dc42a785dda7496dee57dc.jpeg",
+        "products": [
+          {
+            "name": "Velvet Sofa",
+            "price": "$1,800",
+            "material": "Velvet"
+          },
+          {
+            "name": "Metal Frame Coffee Table",
+            "price": "$450",
+            "material": "Glass and Metal"
+          },
+          {
+            "name": "Decorative Wall Art",
+            "price": "$300",
+            "material": "Canvas"
+          },
+          {
+            "name": "Ceramic Floor Vase",
+            "price": "$120",
+            "material": "Ceramic"
+          }
+        ],
+        "description": "A luxurious living room with a plush velvet sofa, a sleek metal-framed coffee table, and decorative wall art. The ceramic floor vase adds an elegant touch to the space."
+      },
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/wKtknCFxp5LPzYRbZLcxIJHUYEs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MCH_7455-f115cd2984d34202a16f3fa63820fd8b.jpg",
+        "products": [
+          {
+            "name": "Gray Upholstered Sofa",
+            "price": "$1,400",
+            "material": "Cotton Blend Fabric"
+          },
+          {
+            "name": "Geometric Coffee Table",
+            "price": "$500",
+            "material": "Wood and Metal"
+          },
+          {
+            "name": "Patterned Rug",
+            "price": "$400",
+            "material": "Wool"
+          },
+          {
+            "name": "Accent Cushions",
+            "price": "$40 per cushion",
+            "material": "Cotton"
+          }
+        ],
+        "description": "A cozy living room with a gray upholstered sofa, geometric coffee table, and a patterned rug. The space is completed with colorful accent cushions for added warmth and style."
+      },
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/5V0E3lFbwJU7r-nWFbVeuOn5_D0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/af1be3_276a1de77baa4f75ac2017ec80eef9a4mv2-61f9943dea64470ab0995f191c31c31f.jpeg",
+        "products": [
+          {
+            "name": "Leather Armchair",
+            "price": "$900",
+            "material": "Leather"
+          },
+          {
+            "name": "Round Side Table",
+            "price": "$250",
+            "material": "Wood"
+          },
+          {
+            "name": "Floor Lamp",
+            "price": "$150",
+            "material": "Metal"
+          },
+          {
+            "name": "Abstract Wall Art",
+            "price": "$200",
+            "material": "Canvas"
+          }
+        ],
+        "description": "A modern living space featuring a leather armchair, round wooden side table, and abstract wall art. The metal floor lamp adds a functional yet stylish lighting element."
+      },
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/0yjr7ApHNpSU340it3Smfxr59Og=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beaconsfield6520-dce3818beeb645a2b2c2efc5db3cc5d5.jpg",
+        "products": [
+          {
+            "name": "Beige Sectional Sofa",
+            "price": "$1,600",
+            "material": "Linen"
+          },
+          {
+            "name": "Marble Coffee Table",
+            "price": "$700",
+            "material": "Marble"
+          },
+          {
+            "name": "Patterned Rug",
+            "price": "$350",
+            "material": "Cotton"
+          },
+          {
+            "name": "Floor-to-ceiling Curtains",
+            "price": "$250 per panel",
+            "material": "Linen Blend"
+          }
+        ],
+        "description": "A spacious living room with a beige sectional sofa, marble coffee table, and patterned rug. The floor-to-ceiling curtains add elegance and balance to the room."
+      },
+      {
+        "category": "kitchen",
+        "image_link": "https://www.thespruce.com/thmb/PuPAac5pAC6Mc3Ax97_MuilFVmk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Foch-CarolineAndreoni-e46b11c0c39a48e6b60a094a0077caeb.jpeg",
+        "products": [
+          {
+            "name": "Low-profile Modern Sofa",
+            "price": "$1,700",
+            "material": "Velvet"
+          },
+          {
+            "name": "Minimalist Coffee Table",
+            "price": "$300",
+            "material": "Glass and Metal"
+          },
+          {
+            "name": "Abstract Wall Art",
+            "price": "$400",
+            "material": "Framed Canvas"
+          },
+          {
+            "name": "Wooden TV Stand",
+            "price": "$600",
+            "material": "Oak Wood"
+          }
+        ],
+        "description": "A modern living room with a low-profile velvet sofa, minimalist glass coffee table, and abstract wall art. The oak TV stand offers practical storage while complementing the overall design."
+      }
+    ]
+  }
+  

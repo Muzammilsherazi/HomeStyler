@@ -1,0 +1,55 @@
+.playerCard {
+    animation: zoomIn 1s ease-out forwards;
+    animation-timeline: view();
+    animation-range-start: cover;
+    animation-range-end: 30%;    
+    a{
+        
+    position: relative;
+    padding: 10px;
+    border-radius: 10px;
+    /* width: 250px; */
+    height: 300px;
+    background-color: var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+    }
+    img {
+        position: absolute;
+        width: 95%;
+        height: 95%;
+        object-fit: cover;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: .5s;
+        &:hover{
+            filter: brightness(.6);
+        }
+        &:hover ~ .playerName{
+            transform: translateY(0) scale(1);
+            opacity: 1;
+        }
+    }
+
+    .playerName {
+        color: var(--head-color);
+        text-shadow: 1px 1px 5px black;
+        transform: translateY(50px) scale(0);
+        opacity: 0;
+        transition: transform .5s ease;
+        font-family: "Bebas Neue";
+    }
+}
+    @keyframes zoomIn {
+        from{
+            transform: scale(0);
+            opacity: 0;
+        }
+        to{
+            transform: scale(1);
+            opacity: 1;
+        }
+    }

@@ -1,0 +1,455 @@
+[
+  {
+    "id": 1,
+    "category": "Vanities and Cabinets",
+    "products": [
+      {
+        "id": "vanity001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Modern Bathroom Vanity",
+        "description": "A sleek bathroom vanity with ample storage space.",
+        "image": "../../public/bathroom/bathroommedicinecabinet.jpg",
+        "category": "Vanities and Cabinets",
+        "reviews": [
+          {
+            "user": "Ava",
+            "rating": 5,
+            "comment": "Stylish and functional."
+          }
+        
+        ],
+        "ratings": 4.9,
+        "price": 499.99
+      },
+      {
+        "id": "vanity002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Classic Wooden Cabinet",
+        "description": "A timeless wooden cabinet for storing bathroom essentials.",
+        "image": "../../public/bathroom/antiquevanitymirror.jpg",
+        "category": "Vanities and Cabinets",
+        "reviews": [
+          {
+            "user": "Noah",
+            "rating": 4,
+            "comment": "Beautiful design, a bit bulky."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 399.99
+      },
+      {
+        "id": "vanity003",
+        "name": "Floating Vanity",
+        "description": "A space-saving floating vanity with a minimalist design.",
+        "image": "../../public/bathroom/BathroomSink.jpg",
+        "category": "Vanities and Cabinets",
+        "reviews": [
+          {
+            "user": "Sophia",
+            "rating": 5,
+            "comment": "Perfect for small bathrooms."
+          }
+        ],
+        "ratings": 4.8,
+        "price": 349.99
+      },
+      {
+        "id": "vanity004",
+        "name": "Double Sink Vanity",
+        "description": "A spacious double-sink vanity for larger bathrooms.",
+        "image": "../../public/bathroom/BidetAttachment.jpg",
+        "category": "Vanities and Cabinets",
+        "reviews": [
+          {
+            "user": "Liam",
+            "rating": 4,
+            "comment": "Great for families."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 699.99
+      },
+      {
+        "id": "vanity005",
+        "name": "Classic Wooden Cabinet",
+        "description": "A corner cabinet to maximize storage in small spaces.",
+        "image": "../../public/bathroom/UndermountSink.jpg",
+        "category": "Vanities and Cabinets",
+        "reviews": [
+          {
+            "user": "Emily",
+            "rating": 5,
+            "comment": "Very efficient for small bathrooms."
+          }
+        ],
+        "ratings": 4.7,
+        "price": 249.99
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Shower and Bathtubs",
+    "products": [
+      {
+        "id": "shower001",
+        "name": "Walk-in Shower",
+        "description": "A sleek walk-in shower with glass doors.",
+        "image": "../../public/bathroom/ComfortHeightToilet.jpg",
+        "category": "Shower and Bathtubs",
+        "reviews": [
+          {
+            "user": "Lucas",
+            "rating": 5,
+            "comment": "Spacious and modern."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 1499.99
+      },
+      {
+        "id": "shower002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Freestanding Bathtub",
+        "description": "A luxurious freestanding bathtub for a spa-like experience.",
+        "image": "../../public/bathroom/CompactCornerCabinet.jpg",
+        "category": "Shower and Bathtubs",
+        "reviews": [
+          {
+            "user": "Olivia",
+            "rating": 5,
+            "comment": "Absolutely love the design!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 1299.99
+      },
+      {
+        "id": "shower003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Corner Shower Enclosure",
+        "description": "A space-saving corner shower with a stylish design.",
+        "image": "../../public/bathroom/CompactShowerStall.jpg",
+        "category": "Shower and Bathtubs",
+        "reviews": [
+          {
+            "user": "Mason",
+            "rating": 4,
+            "comment": "Good quality, but installation was tricky."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 799.99
+      },
+      {
+        "id": "shower004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Jacuzzi Bathtub",
+        "description": "A jacuzzi bathtub for ultimate relaxation.",
+        "image": "../../public/bathroom/CornerShowerEnclosure.jpg",
+        "category": "Shower and Bathtubs",
+        "reviews": [
+          {
+            "user": "Amelia",
+            "rating": 5,
+            "comment": "Perfect for unwinding after a long day."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 1599.99
+      },
+      {
+        "id": "shower005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Compact Shower Stall",
+        "description": "A compact shower stall ideal for small bathrooms.",
+        "image": "../../public/bathroom/DoubleSinkVanity.jpg",
+        "category": "Shower and Bathtubs",
+        "reviews": [
+          {
+            "user": "Ethan",
+            "rating": 4,
+            "comment": "Simple design, works well in tight spaces."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 499.99
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Toilets and Bidets",
+    "products": [
+      {
+        "id": "toilet001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Eco-Friendly Toilet",
+        "description": "A water-saving, eco-friendly toilet.",
+        "image": "../../public/bathroom/EcoFriendlyToilet.jpg",
+        "category": "Toilets and Bidets",
+        "reviews": [
+          {
+            "user": "Sophia",
+            "rating": 5,
+            "comment": "Saves water and works perfectly!"
+          }
+        ],
+        "ratings": 4.8,
+        "price": 299.99
+      },
+      {
+        "id": "toilet002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Smart Toilet",
+        "description": "A high-tech smart toilet with automatic features.",
+        "image": "../../public/bathroom/FloatingVanity.jpg",
+        "category": "Toilets and Bidets",
+        "reviews": [
+          {
+            "user": "Benjamin",
+            "rating": 5,
+            "comment": "Amazingly modern and convenient."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 799.99
+      },
+      {
+        "id": "toilet003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Bidet Attachment",
+        "description": "An easy-to-install bidet attachment for any toilet.",
+        "image": "../../public/bathroom/FramelessMirror.jpg",
+        "category": "Toilets and Bidets",
+        "reviews": [
+          {
+            "user": "Charlotte",
+            "rating": 4,
+            "comment": "Great value for money."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 99.99
+      },
+      {
+        "id": "toilet004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Wall-Mounted Toilet",
+        "description": "A sleek wall-mounted toilet for a modern bathroom.",
+        "image": "../../public/bathroom/FreestandingBathtub.jpg",
+        "category": "Toilets and Bidets",
+        "reviews": [
+          {
+            "user": "James",
+            "rating": 5,
+            "comment": "Gives the bathroom a modern touch."
+          }
+        ],
+        "ratings": 4.7,
+        "price": 499.99
+      },
+      {
+        "id": "toilet005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Comfort Height Toilet",
+        "description": "A comfort-height toilet designed for ease of use.",
+        "image": "../../public/bathroom/JacuzziBathtub.jpg",
+        "category": "Toilets and Bidets",
+        "reviews": [
+          {
+            "user": "Mia",
+            "rating": 4,
+            "comment": "Very comfortable for elderly users."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 349.99
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Bathroom Sinks",
+    "products": [
+      {
+        "id": "sink001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Undermount Sink",
+        "description": "A sleek undermount sink for a minimalist look.",
+        "image": "../../public/bathroom/MedicineCabinetwithMirror.jpg",
+        "category": "Bathroom Sinks",
+        "reviews": [
+          {
+            "user": "William",
+            "rating": 5,
+            "comment": "Looks beautiful with my countertop."
+          }
+        ],
+        "ratings": 4.8,
+        "price": 199.99
+      },
+      {
+        "id": "sink002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Vessel Sink",
+        "description": "A stylish vessel sink for a modern bathroom.",
+        "image": "../../public/bathroom/MedicineCabinet.jpg",
+        "category": "Bathroom Sinks",
+        "reviews": [
+          {
+            "user": "Isabella",
+            "rating": 5,
+            "comment": "Unique design and easy to clean."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 249.99
+      },
+      {
+        "id": "sink003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Pedestal Sink",
+        "description": "A classic pedestal sink for a traditional bathroom.",
+        "image": "../../public/bathroom/ModernBathroomVanity.jpg",
+        "category": "Bathroom Sinks",
+        "reviews": [
+          {
+            "user": "Jacob",
+            "rating": 4,
+            "comment": "Looks elegant, but a bit tall."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 299.99
+      },
+      {
+        "id": "sink004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Wall-Mounted Sink",
+        "description": "A space-saving wall-mounted sink.",
+        "image": "../../public/bathroom/MedicineCabinet.jpg",
+        "category": "Bathroom Sinks",
+        "reviews": [
+          {
+            "user": "Elijah",
+            "rating": 4,
+            "comment": "Good for small spaces."
+          }
+        ],
+        "ratings": 4.5,
+        "price": 179.99
+      },
+      {
+        "id": "sink005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Double Sink",
+        "description": "A double sink for shared bathrooms.",
+        "image": "../../public/bathroom/ModernBathroomVanity.jpg",
+        "category": "Bathroom Sinks",
+        "reviews": [
+          {
+            "user": "Harper",
+            "rating": 5,
+            "comment": "Perfect for our family."
+          }
+        ],
+        "ratings": 4.9,
+        "price": 399.99
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Mirrors and Medicine Cabinets",
+    "products": [
+      {
+        "id": "mirror001",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Frameless Mirror",
+        "description": "A sleek frameless mirror for a modern bathroom.",
+        "image": "../../public/bathroom/ModernBathroomVanity.jpg",
+        "category": "Mirrors and Medicine Cabinets",
+        "reviews": [
+          {
+            "user": "Avery",
+            "rating": 5,
+            "comment": "Adds a minimalist touch."
+          }
+        ],
+        "ratings": 4.8,
+        "price": 149.99
+      },
+      {
+        "id": "mirror002",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Round LED Mirror",
+        "description": "A round mirror with built-in LED lighting.",
+        "image": "../../public/bathroom/PedestalSink.jpg",
+        "category": "Mirrors and Medicine Cabinets",
+        "reviews": [
+          {
+            "user": "Evelyn",
+            "rating": 5,
+            "comment": "The LED lighting is perfect for makeup!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 199.99
+      },
+      {
+        "id": "mirror003",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Medicine Cabinet with Mirror",
+        "description": "A mirrored medicine cabinet with ample storage.",
+        "image": "../../public/bathroom/roundledmirror.jpg",
+        "category": "Mirrors and Medicine Cabinets",
+        "reviews": [
+          {
+            "user": "Lucas",
+            "rating": 4,
+            "comment": "Very convenient and looks great."
+          }
+        ],
+        "ratings": 4.7,
+        "price": 299.99
+      },
+      {
+        "id": "mirror004",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Antique Vanity Mirror",
+        "description": "A vintage-inspired mirror for a classic touch.",
+        "image": "../../public/bathroom/Shower.jpg",
+        "category": "Mirrors and Medicine Cabinets",
+        "reviews": [
+          {
+            "user": "Ella",
+            "rating": 5,
+            "comment": "Beautiful antique style!"
+          }
+        ],
+        "ratings": 4.9,
+        "price": 249.99
+      },
+      {
+        "id": "mirror005",
+                "longDescription": "This shoe rack is a practical and stylish piece of furniture that will provide a perfect spot to store your shoes and accessories. Its sturdy design makes it a great addition to any entryway. The shoe rack is made of high-quality materials that are durable and easy to maintain.",
+        "name": "Bathroom Medicine Cabinet",
+        "description": "A modern medicine cabinet with hidden storage.",
+        "image": "../../public/bathroom/Toilet.jpg",
+        "category": "Mirrors and Medicine Cabinets",
+        "reviews": [
+          {
+            "user": "Logan",
+            "rating": 4,
+            "comment": "Good storage, but smaller than expected."
+          }
+        ],
+        "ratings": 4.6,
+        "price": 229.99
+      }
+    ]
+  }
+  
+]

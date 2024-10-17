@@ -1,0 +1,235 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "Living Room",
+        "description": "Design elements and products for the living room.",
+        "styles": [
+          {
+            "id": "1",
+            "name": "Contemporary",
+            "description": "A style characterized by clean lines, minimalistic decor, and a focus on functionality.",
+            "image": "path/to/contemporary-image.jpg",
+            "products": [
+              {
+                "name": "Modern Sofa",
+                "price": "$500",
+                "image": "path/to/modern-sofa.jpg"
+              },
+              {
+                "name": "Glass Coffee Table",
+                "price": "$200",
+                "image": "path/to/glass-coffee-table.jpg"
+              }
+            ],
+            "costEstimate": "$700"
+          },
+          {
+            "id": "2",
+            "name": "Rustic",
+            "description": "A style that embraces natural materials and a warm, cozy atmosphere.",
+            "image": "path/to/rustic-image.jpg",
+            "products": [
+              {
+                "name": "Wooden Coffee Table",
+                "price": "$350",
+                "image": "path/to/wooden-coffee-table.jpg"
+              },
+              {
+                "name": "Leather Recliner",
+                "price": "$600",
+                "image": "path/to/leather-recliner.jpg"
+              }
+            ],
+            "costEstimate": "$950"
+          },
+          {
+            "id": "3",
+            "name": "Modern",
+            "description": "A sleek and minimalist design style with clean lines and functional decor.",
+            "image": "path/to/modern-living-room-image.jpg",
+            "products": [
+              {
+                "name": "Modular Sofa",
+                "price": "$750",
+                "image": "path/to/modular-sofa.jpg"
+              },
+              {
+                "name": "Metal Floor Lamp",
+                "price": "$180",
+                "image": "path/to/metal-floor-lamp.jpg"
+              }
+            ],
+            "costEstimate": "$930"
+          },
+          {
+            "id": "4",
+            "name": "Bohemian",
+            "description": "A free-spirited style featuring eclectic decor, vibrant colors, and natural elements.",
+            "image": "path/to/bohemian-living-room-image.jpg",
+            "products": [
+              {
+                "name": "Boho Rug",
+                "price": "$250",
+                "image": "path/to/boho-rug.jpg"
+              },
+              {
+                "name": "Macramé Wall Hanging",
+                "price": "$80",
+                "image": "path/to/macrame-wall-hanging.jpg"
+              }
+            ],
+            "costEstimate": "$330"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Bedroom",
+        "description": "Design elements and products for the bedroom.",
+        "styles": [
+          {
+            "id": "1",
+            "name": "Elegant",
+            "description": "A sophisticated style that incorporates luxurious materials, intricate details, and rich colors.",
+            "image": "path/to/elegant-bedroom-image.jpg",
+            "products": [
+              {
+                "name": "Luxury Velvet Bed",
+                "price": "$1000",
+                "image": "path/to/luxury-velvet-bed.jpg"
+              },
+              {
+                "name": "Crystal Chandelier",
+                "price": "$500",
+                "image": "path/to/crystal-chandelier.jpg"
+              }
+            ],
+            "costEstimate": "$1500"
+          },
+          {
+            "id": "2",
+            "name": "Minimalist",
+            "description": "A clean and simple design approach with an emphasis on functionality and decluttered spaces.",
+            "image": "path/to/minimalist-bedroom-image.jpg",
+            "products": [
+              {
+                "name": "Platform Bed",
+                "price": "$600",
+                "image": "path/to/platform-bed.jpg"
+              },
+              {
+                "name": "Floating Nightstands",
+                "price": "$150",
+                "image": "path/to/floating-nightstands.jpg"
+              }
+            ],
+            "costEstimate": "$750"
+          },
+          {
+            "id": "3",
+            "name": "Farmhouse",
+            "description": "A warm and inviting style featuring rustic furniture and cozy decor.",
+            "image": "path/to/farmhouse-bedroom-image.jpg",
+            "products": [
+              {
+                "name": "Wooden Bed Frame",
+                "price": "$450",
+                "image": "path/to/wooden-bed-frame.jpg"
+              },
+              {
+                "name": "Woven Basket",
+                "price": "$80",
+                "image": "path/to/woven-basket.jpg"
+              }
+            ],
+            "costEstimate": "$530"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Kitchen",
+        "description": "Design elements and products for the kitchen.",
+        "styles": [
+          {
+            "id": "1",
+            "name": "Modern",
+            "description": "A sleek design with an emphasis on functionality and clean lines.",
+            "image": "path/to/modern-kitchen-image.jpg",
+            "products": [
+              {
+                "name": "Quartz Countertops",
+                "price": "$700",
+                "image": "path/to/quartz-countertops.jpg"
+              },
+              {
+                "name": "Stainless Steel Appliances",
+                "price": "$1200",
+                "image": "path/to/stainless-steel-appliances.jpg"
+              }
+            ],
+            "costEstimate": "$1900"
+          },
+          {
+            "id": "2",
+            "name": "Farmhouse",
+            "description": "A cozy kitchen style with rustic charm and traditional elements.",
+            "image": "path/to/farmhouse-kitchen-image.jpg",
+            "products": [
+              {
+                "name": "Farmhouse Sink",
+                "price": "$450",
+                "image": "path/to/farmhouse-sink.jpg"
+              },
+              {
+                "name": "Wooden Cabinets",
+                "price": "$800",
+                "image": "path/to/wooden-cabinets.jpg"
+              }
+            ],
+            "costEstimate": "$1250"
+          },
+          {
+            "id": "3",
+            "name": "Industrial",
+            "description": "A style featuring exposed elements, metal accents, and a utilitarian approach.",
+            "image": "path/to/industrial-kitchen-image.jpg",
+            "products": [
+              {
+                "name": "Industrial Pendant Lights",
+                "price": "$200",
+                "image": "path/to/industrial-pendant-lights.jpg"
+              },
+              {
+                "name": "Metal Bar Stools",
+                "price": "$150",
+                "image": "path/to/metal-bar-stools.jpg"
+              }
+            ],
+            "costEstimate": "$350"
+          },
+          {
+            "id": "4",
+            "name": "Traditional",
+            "description": "A classic style with timeless design elements and rich wood finishes.",
+            "image": "path/to/traditional-kitchen-image.jpg",
+            "products": [
+              {
+                "name": "Wooden Island",
+                "price": "$600",
+                "image": "path/to/wooden-island.jpg"
+              },
+              {
+                "name": "Classic Backsplash",
+                "price": "$200",
+                "image": "path/to/classic-backsplash.jpg"
+              }
+            ],
+            "costEstimate": "$800"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,198 @@
+.feedback_section {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+
+  .banner {
+    position: relative;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+
+    img {
+      width: 100%;
+      height: 100%;
+      filter: brightness(.6);
+      object-fit: cover;
+    }
+
+    .bannerH1 {
+      position: absolute;
+      bottom: 50px;
+      z-index: 100;
+      font-family: "Bebas Neue";
+      left: 50px;
+      font-size: 4em;
+      border: none;
+      color: #fff;
+      animation: textAnimate 1s ease-out forwards;
+    }
+
+    @media screen and (max-width: 425px) {
+      .bannerH1 {
+        font-size: 3em;
+      }
+    }
+  }
+}
+
+@keyframes textAnimate {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.feedback {
+  display: grid;
+  grid-template-columns: 40% 50%;
+  justify-content: space-around;
+  padding: 100px 30px;
+}
+
+@media screen and (max-width: 1024px) {
+  .feedback {
+    grid-template-columns: 90%;
+    row-gap: 50px;
+  }
+
+  .parent {
+    height: 400px;
+  }
+}
+
+.head {
+  text-align: left;
+  display: inline-block;
+  border-bottom: 2px solid;
+  color: orange;
+}
+
+#feedback_form_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  height: 400px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #dddddd4d;
+  border-radius: 10px;
+  animation: zoomIn 1s ease-out forwards;
+  animation-timeline: view();
+  animation-range-start: cover;
+  animation-range-end: 30%;    
+
+
+}
+
+#feedback_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  
+}
+
+.form_group {
+  margin-bottom: 15px;
+}
+
+
+
+.form_group input,
+.form_group textarea {
+  width: 100%;
+  padding: 12px 10px;
+  font-size: 14px;
+  border: 1px solid #cccccc4d;
+  border-radius: 5px;
+  color: #fff;
+  background-color: transparent;
+  transition: border-color 0.3s ease;
+  box-sizing: border-box;
+  font-family: "jost";
+}
+
+.form_group input:focus,
+.form_group textarea:focus {
+  outline: none;
+  border-color: var(--head-color);
+}
+
+.form_group textarea {
+  height: 100px;
+  resize: vertical;
+}
+
+#submit_btn {
+  padding: 10px 20px;
+  background-color: orange;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.error {
+  border: 1px solid rgb(255, 0, 0);
+}
+
+.error_msg {
+  color: red;
+  font-size: .9em;
+  margin-top: 5px;
+  font-family: "jost";
+}
+
+#formMsg {
+  margin-top: 20px;
+  text-align: center;
+  color: green;
+  font-size: 16px;
+  visibility: visible;
+}
+
+
+.parent {
+  position: relative;
+  border: 1px solid #ffffff38;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  animation: zoomIn 1s ease-out forwards;
+  animation-timeline: view();
+  animation-range-start: cover;
+  animation-range-end: 30%;    
+
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    opacity: .9;
+  }
+
+}
+
+@keyframes zoomIn {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}

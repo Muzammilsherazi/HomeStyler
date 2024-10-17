@@ -1,0 +1,89 @@
+.reviewSection {
+    display: grid;
+    grid-template-columns: 32% 32% 32%;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 30px;
+    gap: 30px;
+    border-right: 1px solid #e0dfdf46;
+    border-left: 1px solid #e0dfdf46;
+
+    .review {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        padding: 10px;
+        position: relative;
+        background-color: var(--shade-blur);
+        backdrop-filter: blur(2px);
+        /* width: 300px; */
+        border-radius: 10px;
+        animation: zoomIn 1s ease-out forwards;
+        animation-timeline: view();
+        animation-range-start: cover;
+        animation-range-end: 30%;
+
+        tran &:hover {
+            scale: 1.1;
+        }
+
+
+        i {
+            color: var(--head-color);
+            font-size: 1.1em;
+        }
+
+        h2 {
+            margin-top: 60px;
+            font-family: "Bebas Neue";
+            color: var(--head-color);
+        }
+
+        p {
+            font-family: "jost";
+            color: var(--text-color);
+            text-align: center;
+        }
+
+        .image {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            top: -50px;
+            background-color: var(--head-color);
+            padding: 5px;
+
+            img {
+                border-radius: 50%;
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+
+
+
+}
+
+@media screen and (max-width: 1100px) {
+    .reviewSection {
+        margin-top: 60px;
+        grid-template-columns: 100%;
+        row-gap: 70px;
+    }
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "name": "Modern",
+      "description": "A sleek and sophisticated style with clean lines, neutral tones, and minimal decor.",
+      "image": "path/to/modern-bedroom-image.jpg",
+      "costEstimate": "$1000",
+      "category": "Bedroom"
+    },
+    {
+      "id": "2",
+      "name": "Traditional",
+      "description": "Classic design elements with rich textures, warm colors, and ornate furnishings.",
+      "image": "path/to/traditional-bedroom-image.jpg",
+      "costEstimate": "$1200",
+      "category": "Bedroom"
+    },
+    {
+      "id": "3",
+      "name": "Minimalist",
+      "description": "A simple and uncluttered space with neutral colors and functional furnishings.",
+      "image": "path/to/minimalist-bedroom-image.jpg",
+      "costEstimate": "$800",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "4",
+      "name": "Bohemian",
+      "description": "A relaxed and vibrant space filled with eclectic patterns, textures, and plants.",
+      "image": "path/to/bohemian-bedroom-image.jpg",
+      "costEstimate": "$900",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "5",
+      "name": "Scandinavian",
+      "description": "A cozy and bright space featuring natural materials, white walls, and minimal decor.",
+      "image": "path/to/scandinavian-bedroom-image.jpg",
+      "costEstimate": "$950",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "6",
+      "name": "Industrial",
+      "description": "Raw and unfinished materials like exposed brick, metal, and wood create an edgy look.",
+      "image": "path/to/industrial-bedroom-image.jpg",
+      "costEstimate": "$1100",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "7",
+      "name": "Farmhouse",
+      "description": "A warm and inviting style featuring rustic elements, wooden furniture, and soft linens.",
+      "image": "path/to/farmhouse-bedroom-image.jpg",
+      "costEstimate": "$1000",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "8",
+      "name": "Rustic",
+      "description": "A cozy and earthy space with natural materials, distressed wood, and neutral tones.",
+      "image": "path/to/rustic-bedroom-image.jpg",
+      "costEstimate": "$950",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "9",
+      "name": "Mid-Century Modern",
+      "description": "Inspired by the 1950s with retro furniture, bold colors, and organic shapes.",
+      "image": "path/to/midcentury-bedroom-image.jpg",
+      "costEstimate": "$1050",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "10",
+      "name": "Eclectic",
+      "description": "A unique and personal space that mixes different styles, colors, and textures.",
+      "image": "path/to/eclectic-bedroom-image.jpg",
+      "costEstimate": "$900",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "11",
+      "name": "Luxury",
+      "description": "A high-end bedroom with premium materials, plush fabrics, and opulent decor.",
+      "image": "path/to/luxury-bedroom-image.jpg",
+      "costEstimate": "$2000",
+      "category": "bedroomDesign"
+    },
+    {
+      "id": "12",
+      "name": "Transitional",
+      "description": "A balanced blend of traditional and modern elements for a timeless bedroom look.",
+      "image": "path/to/transitional-bedroom-image.jpg",
+      "costEstimate": "$1200",
+      "category": "bedroomDesign"
+    }
+  ]
+  

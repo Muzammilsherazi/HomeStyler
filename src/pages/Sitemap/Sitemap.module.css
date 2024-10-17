@@ -1,0 +1,46 @@
+
+
+.parent {
+    padding: 120px 30px 80px 30px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+    flex-wrap: wrap;
+}
+
+/* .sitemap{
+    margin-top: 70px;
+    border: 1px solid;
+    margin-top: 50px;
+} */
+.ul{
+    /* padding: 20px; */
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}   
+
+.links{
+    text-decoration: none;
+    font-size: 1em;
+    color: var(--text-color);
+    font-family: "jost";
+    transition: .3s;
+    &:hover{
+        padding-left: 3px;
+        color: var(--head-color);
+    }
+
+}
+
+.h2{
+    margin: 20px 0px;
+    font-family: "Bebas Neue";
+    font-size: 2.2em;
+    color: var(--head-color);
+}
+
+li{
+    list-style: none;
+}

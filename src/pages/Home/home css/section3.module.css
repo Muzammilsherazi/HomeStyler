@@ -1,0 +1,33 @@
+.designersGallery_section {
+    padding: 50px 30px;
+    background-color: black;
+    display: flex;
+    border-top: 1px solid #ffffff65;
+    flex-direction: column;
+    gap: 30px;
+    .head1{
+        font-family: "Bebas Neue";
+        font-size: 2.5em;
+        color: var(--head-color);
+    }
+
+    
+}
+.eachDesigner {
+    display: grid;
+    grid-template-columns: 23% 23% 23% 23%;
+    justify-content: center;
+    column-gap: 20px;
+    row-gap: 40px;
+    padding: 20px 10px;
+}
+@media screen and (max-width: 1210px) {
+    .eachDesigner{
+        grid-template-columns: 45% 45%;
+    }
+}
+@media screen and (max-width: 630px) {
+    .eachDesigner{
+        grid-template-columns: 95%;
+    }
+}

@@ -1,0 +1,127 @@
+.dropdowns{
+    position: relative;
+}
+
+.productDropdown{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    z-index: 100;
+    top: 2px;
+    background-color: var(--shade-blur);
+    backdrop-filter: blur(3px);
+    min-height: 200px;
+    width: 120px;
+    padding: 10px;
+    
+    .item{
+        font-family: "Jost";
+        font-size: 1em;
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: space-between;
+        padding: 5px 10px;
+        transition: .2s;
+        &:hover{
+            background-color: var(--head-color);
+        }
+    }
+}
+
+.furnitureDropdown{
+    position: absolute;
+    left: 140px;
+    top: 10px;
+    ul{
+        height: auto;
+    }
+
+}
+.lightingDropdown{
+    position: absolute;
+    left: 140px;
+    top: 52px;
+    ul{
+        height: auto;
+    }
+}
+
+.decorDropdown{
+    position: absolute;
+    left: 140px;
+    top: 94px;
+    ul{
+        height: auto;
+    }
+}
+
+.kitchenDropdown{
+    position: absolute;
+    left: 140px;
+    top: 135px;
+
+    ul{
+        height: auto;
+        width: auto;
+    }
+}
+
+.bathroomDropdown{
+    position: absolute;
+    left: 140px;
+    top: 178px;
+    ul{
+        height: auto;
+    }
+}
+
+#subProductDropdown{
+    border: 1px solid #ffffff13;
+    backdrop-filter: blur(6px);
+    width: 220px;
+    
+}
+
+@media screen and (max-width: 650px) {
+    #subProductDropdown{
+        width: 90px;
+        a{
+            font-size: .7em;
+        }
+    }
+}
+
+.designDropdown{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 100;
+    /* top: 80px; */
+    background-color: var(--shade-blur);
+    backdrop-filter: blur(3px);
+    height: auto;
+    padding: 10px;
+    width: 120px;
+    ul{
+        display: flex;
+        flex-direction: column;
+    }
+    a{
+        color: var(--text-color);
+        font-family: "Jost";
+        font-size: 1em;
+    }
+    .item{
+        /* display: flex; */
+        /* align-items: center; */
+        width: 100%;
+        justify-content: space-between;
+        padding: 5px 10px;
+        transition: .2s;
+        &:hover{
+            background-color: var(--head-color);
+        }
+    }
+}

@@ -1,0 +1,52 @@
+.banner {
+    position: relative;
+    background-image: url("../../assets/images/bathroom/antique vanity mirror .jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    ;
+}
+
+.overlay {
+    position: absolute;
+    background: #00000064;
+    top: 0;
+    width: 100%;
+    height: 80vh;
+}
+
+
+.designList {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+    gap: 20px;
+    padding: 50px 0px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.head1{
+    position: absolute;
+    bottom: 70px;
+    left: 50px;
+    font-size: 3em;
+    letter-spacing: 2px;
+    color: var(--head-color);
+    text-shadow: 1px 1px 5px black;
+    font-family: 'Bebas Neue';
+    animation: textAnimate 1s ease-out forwards;
+}
+
+
+@keyframes textAnimate {
+    from{
+      transform: translateY(-30px);
+      opacity: 0;
+    }
+    to{
+      transform: translateY(0);
+      opacity: 1;
+    }
+}

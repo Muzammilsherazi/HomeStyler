@@ -1,0 +1,99 @@
+[
+    {
+      "id": "1",
+      "name": "Contemporary",
+      "description": "A style characterized by clean lines, minimalistic decor, and a focus on functionality.",
+      "image": "path/to/contemporary-image.jpg",
+      "costEstimate": "$700",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "2",
+      "name": "Modern",
+      "description": "Sleek and stylish with an emphasis on open spaces and smooth surfaces.",
+      "image": "path/to/modern-image.jpg",
+      "costEstimate": "$800",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "3",
+      "name": "Traditional",
+      "description": "Warm, rich colors with classic furniture pieces and an inviting atmosphere.",
+      "image": "path/to/traditional-image.jpg",
+      "costEstimate": "$1200",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "4",
+      "name": "Minimalist",
+      "description": "A focus on simplicity and functionality, with few decorative elements.",
+      "image": "path/to/minimalist-image.jpg",
+      "costEstimate": "$600",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "5",
+      "name": "Scandinavian",
+      "description": "Clean lines, natural materials, and neutral colors for a cozy, inviting space.",
+      "image": "path/to/scandinavian-image.jpg",
+      "costEstimate": "$900",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "6",
+      "name": "Industrial",
+      "description": "Raw, unfinished materials like exposed brick, metal, and wood for a rugged aesthetic.",
+      "image": "path/to/industrial-image.jpg",
+      "costEstimate": "$1000",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "7",
+      "name": "Bohemian",
+      "description": "Vibrant colors, eclectic decor, and a relaxed, artistic vibe.",
+      "image": "path/to/bohemian-image.jpg",
+      "costEstimate": "$750",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "8",
+      "name": "Rustic",
+      "description": "Natural materials, earthy tones, and a cozy, woodsy feel.",
+      "image": "path/to/rustic-image.jpg",
+      "costEstimate": "$1100",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "9",
+      "name": "Mid-Century Modern",
+      "description": "Vintage-inspired with clean lines, organic curves, and bold colors.",
+      "image": "path/to/midcentury-image.jpg",
+      "costEstimate": "$950",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "10",
+      "name": "Farmhouse",
+      "description": "A mix of traditional and rustic elements for a warm, homely space.",
+      "image": "path/to/farmhouse-image.jpg",
+      "costEstimate": "$850",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "11",
+      "name": "Eclectic",
+      "description": "A mix of different styles and periods to create a unique, personalized space.",
+      "image": "path/to/eclectic-image.jpg",
+      "costEstimate": "$800",
+      "category": "LivingroomDesign"
+    },
+    {
+      "id": "12",
+      "name": "Transitional",
+      "description": "A balanced blend of traditional and contemporary elements for a timeless look.",
+      "image": "path/to/transitional-image.jpg",
+      "costEstimate": "$1000",
+      "category": "LivingroomDesign"
+    }
+  ]
+  

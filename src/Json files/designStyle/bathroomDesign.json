@@ -1,0 +1,167 @@
+{
+    "bathroom_designs": [
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2021/10/06/15/05/bathroom-6686057_1280.jpg",
+        "products": [
+          {
+            "name": "Modern Freestanding Bathtub",
+            "price": "$2,000",
+            "material": "Porcelain"
+          },
+          {
+            "name": "Wooden Vanity",
+            "price": "$1,100",
+            "material": "Solid Oak"
+          },
+          {
+            "name": "Round Wall Mirror",
+            "price": "$250",
+            "material": "Brushed Metal"
+          },
+          {
+            "name": "Matte Black Faucet",
+            "price": "$180",
+            "material": "Stainless Steel"
+          }
+        ],
+        "description": "A modern bathroom featuring a sleek freestanding bathtub, a wooden vanity with ample storage, a round wall mirror, and a matte black faucet for a sophisticated touch."
+      },
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2016/04/18/08/51/bathroom-1336164_1280.jpg",
+        "products": [
+          {
+            "name": "Glass Shower Enclosure",
+            "price": "$1,500",
+            "material": "Tempered Glass"
+          },
+          {
+            "name": "Stone Basin Sink",
+            "price": "$900",
+            "material": "Natural Stone"
+          },
+          {
+            "name": "Wall-Mounted Vanity",
+            "price": "$850",
+            "material": "Laminate Wood"
+          },
+          {
+            "name": "Modern Towel Rack",
+            "price": "$120",
+            "material": "Stainless Steel"
+          }
+        ],
+        "description": "A contemporary bathroom design featuring a glass shower enclosure, a stylish stone basin sink, a floating vanity, and a modern towel rack for added convenience."
+      },
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2024/04/23/11/55/bathroom-8714843_1280.jpg",
+        "products": [
+          {
+            "name": "Double Vanity with Marble Top",
+            "price": "$1,800",
+            "material": "Marble and Wood"
+          },
+          {
+            "name": "Freestanding Bathtub",
+            "price": "$2,300",
+            "material": "Acrylic"
+          },
+          {
+            "name": "Chrome Faucet Set",
+            "price": "$300",
+            "material": "Polished Chrome"
+          },
+          {
+            "name": "Large Vanity Mirror",
+            "price": "$400",
+            "material": "Glass and Metal"
+          }
+        ],
+        "description": "This luxurious bathroom features a double vanity with a marble top, a freestanding bathtub, a polished chrome faucet set, and a large vanity mirror to enhance the space."
+      },
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2017/02/24/12/24/bathroom-2094733_1280.jpg",
+        "products": [
+          {
+            "name": "Walk-in Glass Shower",
+            "price": "$2,200",
+            "material": "Glass and Chrome"
+          },
+          {
+            "name": "Floating Sink with Wooden Base",
+            "price": "$1,000",
+            "material": "Porcelain and Wood"
+          },
+          {
+            "name": "Modern Towel Warmer",
+            "price": "$350",
+            "material": "Stainless Steel"
+          },
+          {
+            "name": "Large Wall Mirror",
+            "price": "$320",
+            "material": "Glass"
+          }
+        ],
+        "description": "A modern bathroom featuring a walk-in glass shower, a floating sink with a wooden base, a heated towel rack, and a large mirror for added style and function."
+      },
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2016/10/13/09/08/travel-1737171_1280.jpg",
+        "products": [
+          {
+            "name": "Compact Bathroom Vanity",
+            "price": "$700",
+            "material": "Laminate and Wood"
+          },
+          {
+            "name": "Wall-Mounted Sink",
+            "price": "$450",
+            "material": "Ceramic"
+          },
+          {
+            "name": "Matte Black Faucet",
+            "price": "$180",
+            "material": "Brushed Metal"
+          },
+          {
+            "name": "Wall-Mounted Mirror Cabinet",
+            "price": "$320",
+            "material": "Glass and Metal"
+          }
+        ],
+        "description": "A small yet stylish bathroom design with a compact vanity, wall-mounted sink, matte black faucet, and a mirror cabinet for extra storage."
+      },
+      {
+        "category": "bathroom",
+        "image_link": "https://cdn.pixabay.com/photo/2017/02/24/12/24/bathroom-2094733_1280.jpg",
+        "products": [
+          {
+            "name": "Custom Glass Shower",
+            "price": "$2,400",
+            "material": "Glass and Chrome"
+          },
+          {
+            "name": "Wooden Vanity with Stone Top",
+            "price": "$1,200",
+            "material": "Stone and Wood"
+          },
+          {
+            "name": "Heated Towel Rail",
+            "price": "$300",
+            "material": "Brushed Metal"
+          },
+          {
+            "name": "Floor-to-Ceiling Mirror",
+            "price": "$500",
+            "material": "Glass"
+          }
+        ],
+        "description": "A contemporary bathroom with a custom glass shower, a wooden vanity with a stone top, a heated towel rail, and a large floor-to-ceiling mirror for a luxury experience."
+      }
+    ]
+  }
+  
